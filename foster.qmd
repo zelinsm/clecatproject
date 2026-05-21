@@ -1,0 +1,57 @@
+---
+title: "Foster"
+---
+
+# Why foster with us?
+
+## Rescue cats most in need.
+Our organization only rescues community cats -- cats from the most dangerous, resource-poor environments. 
+
+## We provide everything.
+Our foster caregivers receive food, litter, supplies, and veterinary care for foster cats at no cost.
+
+## Exclusive foster perks.
+We offer discounted basic veterinary care for your personal cats, including vaccines, microchipping, and more.
+
+## Become part of a community.
+Our volunteer network is made up of diverse, supportive, cat-loving people all around Cleveland.
+
+Fill out our foster interest form to learn more!
+
+[Foster Interest Form](https://form.jotform.com/232267278145157){.main-button}
+
+```{=html}
+<div class="jotform-wrapper">
+
+<iframe
+  id="JotFormIFrame-233584882215159"
+  title="Request Form"
+  allowtransparency="true"
+  allow="geolocation; microphone; camera; fullscreen"
+  src="https://form.jotform.com/232267278145157"
+  frameborder="0"
+  style="
+    min-width:100%;
+    max-width:100%;
+    height:1200px;
+    border:none;
+  "
+  scrolling="no">
+</iframe>
+
+</div>
+
+<script type="text/javascript">
+var ifr = document.getElementById("JotFormIFrame-233584882215159");
+
+if (ifr) {
+  window.addEventListener("message", function(e) {
+    if (typeof e.data === 'string' && e.data.indexOf("setHeight") > -1) {
+      var height = e.data.split(":")[1];
+      ifr.style.height = height + "px";
+    }
+  }, false);
+}
+</script>
+```
+

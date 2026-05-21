@@ -1,0 +1,42 @@
+---
+title: "Request Help with Community Cats"
+---
+
+We review requests from our community for assistance with community cats. If you are requesting help with a community cat, please complete the form below in full. We are not able to respond to requests that do not accompany a completed form.
+
+[Request Form](https://form.jotform.com/233584882215159){.main-button}
+
+```{=html}
+<div class="jotform-wrapper">
+
+<iframe
+  id="JotFormIFrame-233584882215159"
+  title="Request Form"
+  allowtransparency="true"
+  allow="geolocation; microphone; camera; fullscreen"
+  src="https://form.jotform.com/233584882215159"
+  frameborder="0"
+  style="
+    min-width:100%;
+    max-width:100%;
+    height:1200px;
+    border:none;
+  "
+  scrolling="no">
+</iframe>
+
+</div>
+
+<script type="text/javascript">
+var ifr = document.getElementById("JotFormIFrame-233584882215159");
+
+if (ifr) {
+  window.addEventListener("message", function(e) {
+    if (typeof e.data === 'string' && e.data.indexOf("setHeight") > -1) {
+      var height = e.data.split(":")[1];
+      ifr.style.height = height + "px";
+    }
+  }, false);
+}
+</script>
+```

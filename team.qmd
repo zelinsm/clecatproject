@@ -1,0 +1,118 @@
+---
+title: "Leadership Team"
+toc: false
+---
+
+<style>
+
+.leadership-grid {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 2rem;
+  align-items: start;
+  margin-bottom: 4rem;
+}
+
+.leadership-photo img {
+  width: 100%;
+  border-radius: 16px;
+  object-fit: cover;
+}
+
+.leadership-text h2 {
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+}
+
+.leadership-role {
+  font-weight: 600;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .leadership-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .leadership-photo {
+    max-width: 300px;
+    margin: auto;
+  }
+}
+
+</style>
+
+---
+
+::: {.leadership-grid}
+
+::: {.leadership-photo}
+![](images/me.jpg)
+:::
+
+::: {.leadership-text}
+
+## Megan Zelinsky
+
+<div class="leadership-role">
+Executive Director
+</div>
+
+Megan Zelinsky is a researcher, bioethicist, educator, and life-long animal advocate. She obtained her bachelor's degree in Biological Sciences from University of Pittsburgh, her master's degree in Bioethics and Medical Humanities from Case Western Reserve University School of Medicine, and is in the process of earning her PhD in Clinical and Translational Science from her alma mater.
+
+Megan lives in Cleveland Heights with her permanent resident cats Penelope, Nimmy, and Rhory, and a revolving door of foster kittens. Beyond her dedication to feline friends, she is an avid reader and yoga-goer. Megan is dedicated to our mission of enhancing the well-being of community cats through our volunteer-led organization. Her approach centers on fostering collaborative partnerships with our community and implementing evidence-based methods for effective community cat management.
+
+:::
+
+:::
+
+---
+
+::: {.leadership-grid}
+
+::: {.leadership-photo}
+![](images/ben.jpg)
+:::
+
+::: {.leadership-text}
+
+## Benjamin Zucker
+
+<div class="leadership-role">
+Medical Director
+</div>
+
+Dr. Benjamin Zucker is a general practice and emergency veterinarian with a deep commitment to animal welfare and a passion for helping community cats. He obtained his Bachelor of Science in Biology from The Ohio State University and went on to complete his Doctor of Veterinary Medicine at The Ohio State University College of Veterinary Medicine.
+
+Following his graduation in 2016, Ben pursued specialized training through internships in both emergency medicine and radiology, which have strengthened his expertise in handling complex and urgent cases.
+
+Outside of his professional life, Ben is an avid Marvel movie fan, fitness enthusiast, and proud cat dad to Vergil and Gabriel. Known for his dedication and compassionate approach, he brings invaluable skills to our mission at Cleveland Community Cat Project, enhancing the health and welfare of community cats through evidence-based practices and expert medical care.
+
+:::
+
+:::
+
+---
+
+::: {.leadership-grid}
+
+::: {.leadership-photo}
+![](images/aj.jpg)
+:::
+
+::: {.leadership-text}
+
+## AJ Kallay
+
+<div class="leadership-role">
+Financial Director
+</div>
+
+AJ Kallay is a Senior Associate at Siegfried's Cleveland Market. He earned his Bachelor of Arts in accounting from the University of Mount Union and his Master of Business Administration from Cleveland State University.
+
+AJ shares his home with two cats, Winona and Taz. Outside of Excel spreadsheets and vacuuming litter, AJ enjoys running, CrossFit, paddleboarding, hunting down great pizza, and staying active in the Cleveland community.
+
+:::
+
+:::

@@ -1,0 +1,14 @@
+---
+title: "Cleveland Community Cat Project"
+toc: false
+---
+
+### *A nonprofit organization dedicated to helping community cats in Northeast Ohio*
+
+# Mission Statement
+
+Cleveland Community Cat Project is a 501(c)(3) nonprofit dedicated to community cat welfare. We focus on Trap-Neuter-Return (TNR), rescue, and providing veterinary care for community cats and kittens. By providing food support, veterinary care, and hands-on education, we help community members care for outdoor cats responsibly and compassionately, working toward a future where community cats are valued and protected.
+
+## See us in action!
+
+<!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/388f8e95617a51eeb2c45341cce9607b.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>

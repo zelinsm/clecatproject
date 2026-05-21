@@ -1,0 +1,43 @@
+---
+title: "Data"
+---
+
+# Cleveland Community Cat Project Outcomes Dataset (CCCPOD)
+
+At Cleveland Community Cat Project, our mission to support community cat welfare is grounded in our commitment to using data to inform and improve our practices. We are proud members of the Best Friends Network Shelter Pet Data Alliance, which champions a consistent, data-driven approach to saving animal lives. Through our Cleveland Community Cat Project Outcomes Dataset (CCCPOD), we collect, analyze, and share high-quality data that offers insights into the outcomes of community cats in our TNR (trap-neuter-return) and foster-to-adoption programs.
+
+## Datasets
+
+- [CCCPOD 2026](https://docs.google.com/spreadsheets/d/1HJaWKf0zMv0jUo5coFygnkL2FWxa_QfURQK269sh1lU/edit?usp=sharing)
+
+- [CCCPOD 2025](https://docs.google.com/spreadsheets/d/1z9DQUOH0OgeNHILNGVmrOCbVSl2EkSC3qiQ5ej1cGyU/edit?usp=sharing)
+
+- [CCCPOD 2025 Data Dictionary](https://docs.google.com/document/d/1SEk_9ebsDW_9X6k21FXlpHi5ypQMavvFL-0wHjvcAEg/edit?usp=sharing)
+
+- [CCCPOD 2023-2024](https://docs.google.com/spreadsheets/d/1h-Wzi-Wv2xaXw2VGg5yEdTFG4mSebVfXKk6MVx22CVE/edit?usp=sharing)
+
+- [CCCPOD 2023-2024 Data Dictionary](https://docs.google.com/document/d/1S5UZscQJRHrNgkK11uk2UOpn01kAEbqFn5M45PCuVA0/edit?usp=sharing)
+
+# Why We Collect and Share Data
+
+Community cat rescues and TNR programs rely on data not only to measure success but also to drive improvement and advocate for humane community solutions. Here are the key reasons why this is essential to our mission:
+
+Informing Best Practices By tracking health, behavior, and outcomes for each cat in our programs, we gather invaluable insights that help refine our approaches to TNR, fostering, and adoption. Data allows us to see what works well and identify areas for improvement in our protocols, ultimately leading to better outcomes for every cat.
+
+Demonstrating Impact Data transparency allows us to showcase the positive impacts of TNR and rescue efforts. By sharing our CCCPOD data, we provide a clear picture of how our programs contribute to reducing cat overpopulation, minimizing euthanasia rates, and improving the overall quality of life for community cats in Cleveland. This transparency also builds trust with our supporters, adopters, and the broader community.
+
+Advocacy for Community-Based Solutions Solid data helps make the case for TNR and community-based cat management solutions, which are humane, effective alternatives to outdated policies. By sharing evidence of the benefits of TNR, we advocate for informed, compassionate animal control strategies within Cleveland and beyond.
+
+Encouraging Research and Collaboration We believe in contributing to the larger body of animal welfare research. Our data can serve as a valuable resource for researchers, veterinary professionals, and other organizations in exploring factors that influence TNR and adoption success. Through collaborations with other groups, we aim to advance understanding and drive innovation in the field of community cat welfare.
+
+Strengthening Accountability As a volunteer-driven nonprofit, we’re dedicated to demonstrating responsible use of resources. Collecting and sharing data keeps us accountable to our mission and to those who support us. It allows us to be transparent about how our resources impact the lives of the cats we care for, which in turn helps maintain donor confidence and attract further support.
+
+# What Our Data Includes
+
+The CCCPOD provides detailed information on community cats processed through our TNR and foster-to-adoption programs. Each entry represents an individual cat and contains variables that capture demographic, health, and outcome-related details.
+
+# Commitment to Ethical Data Use
+
+We are committed to responsible data practices that advance the collective knowledge of TNR and community cat welfare. All shared data is anonymized to ensure confidentiality and maintain respect for our partners and the communities we serve.
+
+By sharing CCCPOD, we aim to contribute to a more compassionate, effective approach to animal welfare. We hope you’ll explore our dataset and join us in our mission to support Cleveland’s community cats.

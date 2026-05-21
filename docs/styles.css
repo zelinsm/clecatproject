@@ -1,0 +1,69 @@
+/* css styles */
+.nav-footer {
+  font-size: 0.8rem;
+}
+
+.circle-photo {
+  width: 150px; 
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto; 
+}
+
+.wishlist-button {
+  display: inline-block;
+  background-color: #ff9900;
+  color: white !important;
+  padding: 14px 24px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.wishlist-button:hover {
+  background-color: #e68a00;
+}
+
+.jotform-wrapper {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 16px;
+}
+
+.main-button {
+  display: inline-block;
+  background-color: #608986;
+  color: white !important;
+  padding: 14px 24px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.main-button:hover {
+  background-color: #608986;
+}
+
+a,
+a:visited {
+  color: #608986;
+}
+
+a:hover,
+a:focus {
+  color: #4f716f;
+}
+
+#TOC a,
+.sidebar nav[role="doc-toc"] a {
+  color: #608986 !important;
+}
+
+#TOC a:hover,
+.sidebar nav[role="doc-toc"] a:hover {
+  color: #4f716f !important;
+}

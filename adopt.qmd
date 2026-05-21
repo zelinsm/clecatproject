@@ -1,0 +1,80 @@
+---
+title: "Adopt"
+---
+
+# Ready for a New Cat?
+
+You came to the right place! Adopting from our organization supports cats most in need. We look forward to helping you find the perfect furry addition to your family. Our cats are fostered in homes by our amazing volunteers in Cleveland and surrounding areas. During their time in foster care, they receive all pre-adoption medical care, learn how to live indoors and play with toys, and often meet other animals.
+
+If you're excited to welcome a new cat into your home, please complete our adoption survey!
+[Adoption Survey](https://form.jotform.com/232266247399062){.main-button}
+
+See more of our adoptable kitties on Instagram [\@CLEcatproject](https://www.instagram.com/clecatproject/) and [Petfinder](https://www.petfinder.com/search/pets-for-adoption/us/oh/southeuclid/?shelterRescue=5e184747-cbcb-4a03-b836-6b663298a21d&distance=anywhere&sort=oldest_addition)!
+
+# Adoptable Cats
+
+::: {#shelterluv_wrap_1766341912}
+:::
+
+::: {}
+:::
+
+```{=html}
+<script type="text/javascript" src="https://new.shelterluv.com/misc/shelterluv_embed.js"></script>
+```
+
+```{=html}
+<div id="shelterluv_wrap_1766341912"></div>
+
+<script
+  type="text/javascript"
+  src="https://new.shelterluv.com/misc/shelterluv_embed.js">
+</script>
+
+<script type="text/javascript">
+  var sourceDomain = "https://new.shelterluv.com";
+  var base_path = "";
+  var GID = 100001314;
+  var filters = [];
+
+  EmbedAvailablePets(
+    "shelterluv_wrap_1766341912",
+    GID,
+    filters,
+    1,
+    sourceDomain,
+    base_path,
+    2
+  );
+</script>
+```
+
+# Adoption Policies
+
+Cleveland Community Cat Project is dedicated to promoting the welfare of community cats and rescuing as many friendly cats and kittens as possible. We believe open, progressive adoption policies save lives.
+
+Our adoption process involves completing a simple adoption survey with your basic information, other people and pets at home, and your preferences for adoption. We get back to interested adopters promptly, and have a brief conversation before scheduling an adoption visit.
+
+Our goal is to match you with the best cat for you and your household, and to find a loving home for our cats and kittens. We are incredibly grateful to our adopters for opening their homes to rescued animals and loving them for life. Our adopters often become our greatest supporters and volunteers.
+
+# Medical Policies & Adoption Fees
+
+Our organization provides the highest level of care our resources allow for rescued cats, and we strive to communicate transparently about past medical issues and future care needs. Our average adoption fee is \$100, but fees are specific to each cat and are dependent on their care expenses. Adoption fees for kittens are typically higher due to the higher level of care required.
+
+All cats who enter our rescue receive:
+
+- Comprehensive exam: A full physical exam performed by one of our qualified veterinarians.
+
+- Parasite treatment: Treatment for fleas and intestinal parasites.
+
+- Core vaccines: Rabies vaccine, initial FVRCP vaccine (protects against Feline Viral Rhinotracheitis, Calicivirus, and Panleukopenia), and booster FVRCP vaccines as needed.
+
+- Testing: Testing for FIV/FeLV, two viruses that cats can contract outdoors.
+
+- Sterilization: Spay/neuter is performed for all cats without exception prior to adoption.
+
+- Dentals: Full dental exams are performed, and cats with dental disease who require extractions undergo a dental procedure.
+
+- Additional treatments: Cats who come to us with illness or injuries receive any necessary medical care prior to being cleared for adoption, and chronic conditions are discussed with adopters ahead of time.
+
+Discounted microchipping (\$35) is available by appointment only post-adoption.
