@@ -48,15 +48,23 @@
   background-color: #608986;
 }
 
-a,
-a:visited {
+/* Body + footer links */
+
+main a,
+.content a,
+.page-columns a,
+.nav-footer a {
   color: #608986;
 }
 
-a:hover,
-a:focus {
+main a:hover,
+.content a:hover,
+.page-columns a:hover,
+.nav-footer a:hover {
   color: #4f716f;
 }
+
+/* TOC links */
 
 #TOC a,
 .sidebar nav[role="doc-toc"] a {
@@ -66,4 +74,16 @@ a:focus {
 #TOC a:hover,
 .sidebar nav[role="doc-toc"] a:hover {
   color: #4f716f !important;
+}
+
+.sidebar nav[role="doc-toc"] .active {
+  color: #608986 !important;
+  font-weight: 600;
+}
+
+/* Active TOC indicator bar */
+
+.sidebar nav[role="doc-toc"] .active {
+  border-left: 3px solid #608986 !important;
+  color: #608986 !important;
 }
