@@ -2,6 +2,29 @@
 title: "Resources"
 ---
 
+This directory provides local and national resources for individuals assisting community cats in Northeast Ohio. Our nonprofit is not directly affiliated with any of the organizations listed below and cannot guarantee services or availability. Please contact each organization directly for up-to-date information.
+
+# FAQs
+
+## What do I do if I see cats outside?
+
+In most cases, cats being outside is not an emergency. However, all community cats should be sterilized through trap-neuter-return (TNR). Friendly cats can be adopted into homes on your own or through local rescues.
+
+## What if the cats are sick or injured?
+
+If you haven't already, fill out our [Request Form](https://www.clecatproject.org/requesthelp) to seek help from our organization. For urgent cases (such as if a cat was hit by a car), we recommend taking the cat to the closest emergency veterinary hospital:
+
+- MedVet Cleveland West – 24 hours • 216-362-6000 • 20400 Emerald Pkwy, Cleveland, OH 44135
+- Metropolitan Veterinary Hospital – 24 hours • 440-673-3483 • 734 Alpha Dr, Highland Heights, OH 44143
+- West Park Animal Hospital – open until 1 am • 216-252-4500 • 4117 Rocky River Dr, Cleveland, OH 44135
+- VCA Great Lakes – 24 hours • 216-831-6789 • 4760 Richmond Rd, Warrensville Heights, OH 44128
+
+## What if the cats appear pregnant?
+
+Cats who appear pregnant are currently accepted for spays at the Cleveland APL without an appointment, Monday-Friday 7:45-8:45 AM.
+
+# Community Cat Resource Directory
+
 ```{=html}
 <style>
 .google-doc-wrapper {
@@ -11,7 +34,7 @@ title: "Resources"
 
 .google-doc-wrapper iframe {
   width: 100%;
-  height: 5000px;
+  height: 15000px;
   border: none;
   overflow: hidden;
 }

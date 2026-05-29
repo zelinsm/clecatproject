@@ -5,12 +5,10 @@ project:
 website:
   title: "Cleveland Community Cat Project"
   description: ""
-  image: images/logo.jpg
   favicon: images/Eartip_Black.png
   
   navbar:
     pinned: true
-    logo: images/logo.jpg
     
     left:
       - href: index.qmd
@@ -29,6 +27,8 @@ website:
         text: Volunteer
       - href: team.qmd
         text: Leadership Team
+      - href: resources.qmd
+        text: Resources
       - href: data.qmd
         text: Data
  
@@ -53,5 +53,6 @@ format:
     theme: simplex
     css: styles.css
     toc: true
+    canonical-url: true
 
 editor: visual
