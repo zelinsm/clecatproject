@@ -4,9 +4,10 @@ project:
 
 website:
   title: "Cleveland Community Cat Project"
+  site-url: https://clecatproject.org
   description: ""
   favicon: images/Eartip_Black.png
-  
+
   navbar:
     pinned: true
     

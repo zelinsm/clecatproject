@@ -73,6 +73,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="canonical" href="https://clecatproject.org/requesthelp.html">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -191,7 +192,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="https://clecatproject.org/foundkittens" class="main-button">Found Kittens Outside?</a></p>
+<p><a href="https://www.clecatproject.org/foundkittens.html" class="main-button">Found Kittens Outside?</a></p>
 <section id="request-help-with-adult-cats" class="level1">
 <h1>Request Help with Adult Cats</h1>
 <p>We review requests from our community for assistance with community cats. If you are requesting help with a community cat, please complete the form below in full. We are not able to respond to requests that do not accompany a completed form.</p>
@@ -299,7 +300,7 @@ if (ifr) {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/clecatproject\.org");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
