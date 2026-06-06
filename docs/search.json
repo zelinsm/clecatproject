@@ -32,7 +32,7 @@
     "href": "requesthelp.html",
     "title": "Request Help with Community Cats",
     "section": "",
-    "text": "Found Kittens Outside?\n\nRequest Help with Adult Cats\nWe review requests from our community for assistance with community cats. If you are requesting help with a community cat, please complete the form below in full. We are not able to respond to requests that do not accompany a completed form.\nRequest Form"
+    "text": "Found Kittens?\n\nRequest Help with Adult Cats\nWe review requests from our community for assistance with community cats. If you are requesting help with a community cat, please complete the form below in full. We are not able to respond to requests that do not accompany a completed form.\nRequest Form"
   },
   {
     "objectID": "index.html#see-us-in-action",
@@ -40,6 +40,13 @@
     "title": "Cleveland Community Cat Project",
     "section": "See us in action!",
     "text": "See us in action!"
+  },
+  {
+    "objectID": "foundkittens.html",
+    "href": "foundkittens.html",
+    "title": "Found Kittens?",
+    "section": "",
+    "text": "If you found healthy kittens under 8 weeks old, please Leave Them Be! Even if they’re alone, their mom is likely still caring for them and will be back soon.\nIf you need help with kittens, complete the questions below so we can assist you. If we aren’t able to help directly, we may be able to connect you with resources or other organizations."
   },
   {
     "objectID": "foster-training.html",
@@ -606,7 +613,7 @@
     "href": "resources.html#what-do-i-do-if-i-see-cats-outside",
     "title": "Resources",
     "section": "What do I do if I see cats outside?",
-    "text": "What do I do if I see cats outside?\nIn most cases, cats being outside is not an emergency. However, all community cats should be sterilized through trap-neuter-return (TNR). Friendly cats can be adopted into homes on your own or through local rescues."
+    "text": "What do I do if I see cats outside?\nIn most cases, a cat being outside is not an emergency. However, all community cats should be sterilized through trap-neuter-return (TNR). Friendly cats can be adopted into homes on your own or through local rescues."
   },
   {
     "objectID": "resources.html#what-if-the-cats-are-sick-or-injured",
@@ -621,6 +628,13 @@
     "title": "Resources",
     "section": "What if the cats appear pregnant?",
     "text": "What if the cats appear pregnant?\nCats who appear pregnant are currently accepted for spays at the Cleveland APL without an appointment, Monday-Friday 7:45-8:45 AM."
+  },
+  {
+    "objectID": "resources.html#what-if-i-found-kittens",
+    "href": "resources.html#what-if-i-found-kittens",
+    "title": "Resources",
+    "section": "What if I found kittens?",
+    "text": "What if I found kittens?\nSee the page below for more information and assistance if you found kittens outside.\nFound Kittens?"
   },
   {
     "objectID": "volunteer-training.html",

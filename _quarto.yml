@@ -21,6 +21,8 @@ website:
         text: About
       - href: donate.qmd
         text: Donate
+      - href: foundkittens.qmd
+        text: Found Kittens?
       - href: requesthelp.qmd
         text: Request Help
       - href: adopt.qmd

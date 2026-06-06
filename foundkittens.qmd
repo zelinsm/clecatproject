@@ -2,6 +2,10 @@
 title: "Found Kittens?"
 ---
 
+If you found healthy kittens under 8 weeks old, please [Leave Them Be](http://www.alleycat.org/LeaveThemBe)! Even if they're alone, their mom is likely still caring for them and will be back soon. 
+
+If you need help with kittens, complete the questions below so we can assist you. If we aren't able to help directly, we may be able to connect you with resources or other organizations. 
+
 ```{=html}
 <div class="jotform-wrapper">
 
