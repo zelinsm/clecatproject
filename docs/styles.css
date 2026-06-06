@@ -87,3 +87,10 @@ main a:hover,
   border-left: 3px solid #608986 !important;
   color: #608986 !important;
 }
+
+/* Navbar logo size */
+
+.navbar-brand img {
+  max-height: 40px; /* Adjust height to fit your navbar styling */
+  width: auto;      /* Keeps the image aspect ratio intact */
+}

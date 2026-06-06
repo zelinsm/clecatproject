@@ -7,8 +7,11 @@ website:
   site-url: https://clecatproject.org
   description: ""
   favicon: images/Eartip_Black.png
-
+  search: false
   navbar:
+    title: false
+    logo: images/Black_Eartip_Logo.png
+    logo-href: index.qmd
     pinned: true
     
     left:

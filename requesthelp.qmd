@@ -2,7 +2,7 @@
 title: "Request Help with Community Cats"
 ---
 
-[Found Kittens Outside?](https://www.clecatproject.org/foundkittens.html){.main-button}
+[Found Kittens Outside?](https://www.clecatproject.org/foundkittens){.main-button}
 
 # Request Help with Adult Cats
 
