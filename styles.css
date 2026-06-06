@@ -91,6 +91,6 @@ main a:hover,
 /* Navbar logo size */
 
 .navbar-brand img {
-  max-height: 40px; /* Adjust height to fit your navbar styling */
+  max-height: 70px; /* Adjust height to fit your navbar styling */
   width: auto;      /* Keeps the image aspect ratio intact */
 }

@@ -10,7 +10,7 @@ website:
   search: false
   navbar:
     title: false
-    logo: images/Black_Eartip_Logo.png
+    logo: images/Logo_Condensed_NoBg.png
     logo-href: index.qmd
     pinned: true
     
