@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
 website:
   title: "Cleveland Community Cat Project"
@@ -8,12 +10,13 @@ website:
   description: ""
   favicon: images/Eartip_Black.png
   search: false
+
   navbar:
     title: false
     logo: images/Logo_Condensed_NoBg.png
     logo-href: index.qmd
     pinned: true
-    
+
     left:
       - href: index.qmd
         text: Home
@@ -37,7 +40,7 @@ website:
         text: Resources
       - href: data.qmd
         text: Data
- 
+
     right:
       - icon: instagram
         href: https://www.instagram.com/clecatproject/
@@ -45,14 +48,13 @@ website:
         href: https://www.facebook.com/profile.php?id=61551479930876
       - icon: envelope
         aria-label: email
-        href: "mailto:help@communitycatproject.org"  
+        href: "mailto:help@communitycatproject.org"
 
   page-footer:
     center: |
       © 2026 Cleveland Community Cat Project, a 501(c)(3) nonprofit organization (EIN: 88-3868710)<br>
       [help@communitycatproject.org](mailto:help@communitycatproject.org) • (216) 309-2680<br>
       [@CLEcatproject](https://www.instagram.com/clecatproject/) • [Facebook](https://www.facebook.com/profile.php?id=61551479930876) • [Petfinder](https://www.petfinder.com/search/pets-for-adoption/us/oh/southeuclid/?shelterRescue=5e184747-cbcb-4a03-b836-6b663298a21d&distance=anywhere&sort=oldest_addition)
-      
 
 format:
   html:
