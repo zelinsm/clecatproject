@@ -2,6 +2,10 @@
 title: "Request Help with Community Cats"
 ---
 
+[Found Kittens Outside?](https://clecatproject.org/foundkittens){.main-button}
+
+# Request Help with Adult Cats
+
 We review requests from our community for assistance with community cats. If you are requesting help with a community cat, please complete the form below in full. We are not able to respond to requests that do not accompany a completed form.
 
 [Request Form](https://form.jotform.com/233584882215159){.main-button}
@@ -39,4 +43,5 @@ if (ifr) {
   }, false);
 }
 </script>
+    
 ```

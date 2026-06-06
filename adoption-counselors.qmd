@@ -1,0 +1,62 @@
+---
+title: "Adoption Counselors"
+---
+
+# Adoption Counseling
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAqhkp7fY4_2_rVvrF3lM4HvkFvNqIZLOsOZvm3qYamjg8Ag/viewform?embedded=true"   style="width:100%; height:2500px; border:none;"
+>
+
+</iframe>
+
+# Essential Resources
+
+- [CCCP Adoption Counselor Handbook](https://www.clecatproject.org/adoption-counselor-handbook)
+
+  - This is a comprehensive reference handbook for Adoption Counselors.
+
+- [Adoption Topics - Talking Points](https://docs.google.com/document/d/1qebRVA0x-q_kmYk7GmpwPIG96tRkoG1JRlCvBm_nopc/edit?usp=drivesdk)
+
+  - This covers all topics that adopters can select in the Adoption Survey that they would like to learn more about.
+
+- [Adoptable Cats Spreadsheet](https://docs.google.com/spreadsheets/d/15_EPTtQZbwObj-GwGxSAow47c6mRJ8P9IipnKGQJETo/edit?usp=sharing)
+
+  - NOTE: If you notice a cat on this list was adopted, don't remove them. Write Adopted under Pending Visits. I remove cats once the veterinary record is sent.
+
+- *NEW* [Adoption Counseling Trello Board](https://trello.com/invite/b/661b1669e2334e9caa9e9b1c/ATTI34b137258ddb35b2191bcf692cf5771e0E6B8566/adoption-counseling)
+
+- *NEW* [Adopter Screening Form v1.2](https://forms.gle/xE1QbPhBmQZURcsK8) (to be completed during adoption counseling call)
+
+- *NEW* [Recent Adoption Surveys - Jotform](https://trello.com/invite/b/661b1669e2334e9caa9e9b1c/ATTI34b137258ddb35b2191bcf692cf5771e0E6B8566/adoption-counseling)
+
+  - NOTE: This does not include all surveys; we have to empty periodically because we run out of server space. Check the spreadsheet below if you need to see them all.
+
+- *NEW* [All Adoption Surveys - Google Sheets](https://docs.google.com/spreadsheets/d/1dBxDjYFDYZAlxig1aPDXW2-whRtGu2T2UO4feQ9hXIk/edit?usp=sharing)
+
+- Adoption Counselor Training
+
+# Adopter Information Documents
+
+These documents are sent in the Adoption Visit email.
+
+- [CCCP Adopter Information Packet](https://docs.google.com/document/d/1IC9Ex5MOB5d1N8SNsbhzCZvGrLRSJGNwnhBOGXPiTh0/edit?usp=sharing)
+
+- [CCCP 3-3-3 Rule](https://docs.google.com/document/d/1ZqRJRlbyiSKoXzmrnW4-QPRRXHVA9L50C5GF-QNs49I/edit?usp=sharing)
+
+- [CCCP Introducing Cats Handout](https://docs.google.com/document/d/1wplBzXABIfa8orcT5eoTdY2LkPKOxDq6fKkjiiuOpP0/edit?usp=sharing)
+
+- [CCCP FIV Information Sheet](https://docs.google.com/document/d/14KnbsDutFVx652eIaioXv7lRQzs8ut1VGU9FdsDpP0w/edit?usp=sharing) (for adopters of FIV+ cats)
+
+# External Training Videos
+
+- [Maddie's Fund: Innovation and Emerging Practices in Adoption Counseling](https://www.youtube.com/watch?v=_R543ifQiqM) (20 minutes)
+
+- [Best Friends Society: Client Service and Barrier Free Adoptions](https://share.articulate.com/tzU-VIDmE3-KnGBQ3asMB#/lessons/ej9QmL454v9wkUaZ6HW6XF56zNpFFFme) (Module 7, adoption process; especially the audio example “Don’t Shut Down the Misinformed”)
+
+- [Maddie’s Fund: Removing Barriers to Adoption webcast](https://youtu.be/Yowy15X1hO4?t=922&si=WVu2NssukbhOrXWX) (start at 15:20 -- \~60 minutes)
+
+# Protocols and Administrative Documents
+
+- [CCCP Adoption Process SOP](https://docs.google.com/document/d/1DmKJpwCojJFC6L5tVLW41oLKZbyhqgpuvbYu8k34lyY/edit?usp=drivesdk) (shared with our rescue partners so they understand our adoption procedures)
+
+- [CCCP Adoption Counselor Role Description](https://docs.google.com/document/d/1nht1aw9dBXPfcDg1QbZkJ3U65yDdvr-ngHpmCkNGw28/edit?usp=sharing)

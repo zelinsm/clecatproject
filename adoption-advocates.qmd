@@ -1,0 +1,235 @@
+---
+title: "Adoption Advocates"
+---
+
+# Adoption Advocate Role Description
+
+# Petfinder Profiles
+
+## Petfinder Login
+
+[Petfinder Pro](https://pro.petfinder.com/pro/organization/OH1354/pet-listings/?status=adoptable)
+
+- Email: [help\@communitycatproject.org](mailto:help@communitycatproject.org)
+
+- Password: CLEcats2025!
+
+## Adding a New Cat
+
+- Verify the cat does not already have a Petfinder profile. If it is in the adoptable cats spreadsheet but NOT on Petfinder, then you can add a new profile for the cat.
+
+- On the bottom right of the Listings page, click **Add a Pet \> Cat** (do not use “Add from template” – they no longer work correctly).
+
+![](images/Screenshot%202026-02-06%20150313.png){width="158"}
+
+## Completing Petfinder Profiles
+
+### Fillable Fields
+
+Use the Use our [Adoptable Cats](https://docs.google.com/spreadsheets/d/15_EPTtQZbwObj-GwGxSAow47c6mRJ8P9IipnKGQJETo/edit?usp=sharing) spreadsheet to fill in the following fields.
+
+::: callout-important
+**Fill out every field, [especially]{.underline} color. This is how people search and filter for cats they may be interested in.**
+:::
+
++---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                   |                                                                                                                                                                                                                                                    |
++===================================================+====================================================================================================================================================================================================================================================+
+| **Primary Breed**                                 | - Domestic shorthair \*almost always domestic shorthair; if they are a different breed I will note it in the spreadsheet                                                                                                                           |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - Domestic mediumhair                                                                                                                                                                                                                              |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - Domestic longhair                                                                                                                                                                                                                                |
++---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Coat Length**                                   | - Short \*almost always shorthaired, again if not I will note in the spreadsheet                                                                                                                                                                   |
+|                                                   |                                                                                                                                                                                                                                                    |
+| \*corresponds to Primary Breed                    | - Medium                                                                                                                                                                                                                                           |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - Long                                                                                                                                                                                                                                             |
++---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Color**                                         | Take from spreadsheet and enter multiple different color types if more than one works                                                                                                                                                              |
++---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Secondary Breed**                               | \*\*always leave blank                                                                                                                                                                                                                             |
++---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Mixed Breed**                                   | No                                                                                                                                                                                                                                                 |
++---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Age**                                           | - Baby **\[Petfinder’s guidelines say \<12 weeks\]**                                                                                                                                                                                               |
+|                                                   |                                                                                                                                                                                                                                                    |
+| \*find in spreadsheet, when in doubt select adult | - Young **\[Petfinder’s guidelines say \<12 months\]**                                                                                                                                                                                             |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - Adult **\[Anyone 12+ months\]**                                                                                                                                                                                                                  |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - Senior **\[Almost never have\]**                                                                                                                                                                                                                 |
++---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Sex**                                           | Find in spreadsheet                                                                                                                                                                                                                                |
++---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Expected Weight**                               | Almost always medium; will note larger or tiny cats in spreadsheet                                                                                                                                                                                 |
++---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Birthday (Optional)**                           | Can skip unless you know it                                                                                                                                                                                                                        |
++---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Health & Behavior**                             | **\*\*FILL OUT EXACTLY LIKE THIS\*\***                                                                                                                                                                                                             |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - **Is spayed / neutered?**                                                                                                                                                                                                                        |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   |   - Yes                                                                                                                                                                                                                                            |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - **Is vaccinated?**                                                                                                                                                                                                                               |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   |   - Yes                                                                                                                                                                                                                                            |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - **Has special needs?**                                                                                                                                                                                                                           |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   |   - No \*FIV+ is not a special need and we typically don’t put it on Petfinder, although we advertise it elsewhere and during adoption counseling                                                                                                  |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - **Is declawed?**                                                                                                                                                                                                                                 |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   |   - No                                                                                                                                                                                                                                             |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - **Is house-trained?**                                                                                                                                                                                                                            |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   |   - Yes                                                                                                                                                                                                                                            |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - **Is good with children?**                                                                                                                                                                                                                       |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   |   - Unknown \*unless otherwise noted in the spreadsheet                                                                                                                                                                                            |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - **Is good with other cats?**                                                                                                                                                                                                                     |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   |   - Yes \*unless otherwise noted in the spreadsheet, we assume cats are cat-friendly if we have observed at least some interactions with other cats; if we truly don’t know or if we know they are NOT cat-friendly, it will be in the spreadsheet |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - **Is good with dogs?**                                                                                                                                                                                                                           |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   |   - Unknown \*unless otherwise noted in the spreadsheet                                                                                                                                                                                            |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - **Is good with other animals?**                                                                                                                                                                                                                  |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   |   - Unknown                                                                                                                                                                                                                                        |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   | - **Is good with...**                                                                                                                                                                                                                              |
+|                                                   |                                                                                                                                                                                                                                                    |
+|                                                   |   ------------------------------------------------------------------------                                                                                                                                                                         |
++---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Adoption Fee**                                  | - Never leave blank                                                                                                                                                                                                                                |
+|                                                   |                                                                                                                                                                                                                                                    |
+| find in spreadsheet                               |   - If not in spreadsheet: use \$100 for adult cats and \$120 for kittens                                                                                                                                                                          |
++---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+### Description of Pet
+
+Add a short biography at the top following the guidelines for [Crafting Content](#sec-crafting-content), then paste the below template into the text field **exactly.** Do not duplicate other Petfinder profiles.
+
+::: {.callout-note appearance="minimal"}
+Fill out our adoption survey today!
+
+\*\*\*FILL OUT OUR ADOPTION SURVEY:
+
+https://form.jotform.com/232266247399062
+
+If you are interested in adopting from us, please complete our adoption survey today! Adopters are contacted in the order that adoption surveys are received.
+
+\*\*\*ESSENTIAL INFO:
+
+\*Good with other cats.
+
+\*Litter-trained.
+
+\*Fully socialized/friendly.
+
+\*Fixed.
+
+\*Rabies and FVRCP vaccinated.
+
+\*Tested for FIV/FeLV.
+
+\*\*\*ADOPTERS WELCOME: Cleveland Community Cat Project is a nonprofit organization dedicated to promoting the welfare of community cats and rescuing as many friendly cats and kittens as possible. We believe open, progressive adoption policies save lives. We do not have rigid requirements of adopters. Our goal is to match you with the best cat for you and your household, and find a loving home for our cats and kittens.
+
+\*\*\*MEET OUR CATS: All cats and kittens are fostered in private homes to ensure they receive all the individualized attention and playtime that they deserve. This allows us not only to save kittens from growing up in a shelter environment, but also to communicate transparently with adopters about their personality traits. We are extremely responsive and flexible when it comes to scheduling visits. 
+
+\*\*\*ADOPTION PROCESS: Once you decide to adopt, you will complete the Adoption Contract and adoption fee electronically within the form. You will receive our Adopter Information Packet, the cat's veterinary summary, and a receipt for your donation. Because we are a 501(c)(3) nonprofit charity, your adoption fee is a tax-deductible donation. We offer post-adoption support and counseling, and are always here if you have questions. We hope everything works out well with your new cat, but we understand that sometimes, the cat you bring home is not a fit for you and your family. That’s okay! Our team is here to support you through the difficult decision to return your pet to Cleveland Community Cat Project if it isn’t working out.
+
+Instagram: \@CLEcatproject
+
+https://www.clecatproject.org/adopt
+:::
+
+## Updating Statuses in Petfinder
+
+Only update an existing cat’s status if you are certain they have been adopted (they will no longer be on the spreadsheet).
+
+![](images/Screenshot%202026-02-06%20145636.png)
+
+# Who Are Our Adopters?
+
+- 36 years old on average
+
+- Find us on Instagram
+
+- Qualities they’re looking for in a cat: Affectionate, Playful, Good with other cats, No health issues
+
+  - If cats are affectionate, playful, good with other cats – these are all qualities that we should shout from the rooftops and choose photos that highlight it
+
+# Crafting Content {#sec-crafting-content}
+
+- Craft compelling written content (biographies, social media posts)
+
+  - Highlight unique qualities
+
+  - Use ChatGPT sparingly if at all, I am so pissed that ChatGPT can recycle my brilliant bios for UNCREATIVE RESCUE PEOPLE
+
+  - Use positive language only
+
+    - Do not ever include negative behaviors or words (e.g,. skittish)
+
+    - Adoption Counselors fully inform adopters of “negative” traits or behaviors; foster cat promotion ≠ adoption counseling
+
+  - Goal is to **not** limit the number of adopters who apply
+
+    - Many people apply for a specific cat then end up adopting another that they wouldn’t have considered originally
+
+- Don’t dwell on past hardships or past life experiences in the Petfinder bio
+
+  - There are exceptions to this for certain cats if it is part of their campaign
+
+  - Most adopters from Petfinder do not want extensive information about cats’ prior outdoor lives (not the case for adopters from social media)
+
+  - Focus on present traits and behaviors
+
+- Include a call to action (avoid using links in Instagram posts, redirect to story or linktree)
+
+  - “Submit our short Adoption Survey to meet them!”
+
+  - “Visit the link in \@CLEcatproject’s bio to fill out the adoption survey!”
+
+::: {.callout-warning appearance="simple"}
+## REMINDER
+
+Avoid adoption counseling in promotional content for cats!
+:::
+
+- Adoption Advocates ≠ Adoption Counselors
+
+  - Do not share "negative" internal notes, these are for Adoption Counselors
+
+  - Do not share adoption policies under any circumstances, but especially incorrect ones (e.g., “must go to a home with another cat or kitten” is not a policy we have and puts up barriers to adoption; even if we likely will prioritize sending that cat to a home with another kitten, the person who applies for them might adopt another cat!)
+
+  - Promotional content for **special needs medical cats** must be approved before posting to ensure it is accurate and up-to-date
+
+- Do not overpromise
+
+  - “No known health issues” or “no health issues we are aware of” ≠ “healthy”
+
+- Do not answer questions that you don’t know the answer to
+
+  - Redirect to Adoption Survey and reinforce to them that an Adoption Counselor will contact them to answer any questions they have
+
+# Additional Resources
+
+- Maddie’s Fund [Marketing Guide](https://www.maddiesfund.org/assets/documents/foster-resources/mf-foster-caregiver-marketing-guide.pdf)
+
+- Maddie’s Fund [Adoption Marketing is Not Adoption Counseling](https://www.maddiesfund.org/shelter-pet-marketing-is-not-adoption-counseling.htm)
+
+- Maddie’s Fund [Focus on the present, not the past, to get pets adopted](https://chewonthis.maddiesfund.org/2012/12/study-focus-on-the-present-not-the-past-to-get-pets-adopted/)
+
+- HeARTs Speak [Adoption Marketing Resources](https://heartsspeak.org/marketing-resource-center/)
+
+- HeARTs Speak [Writing Pet Bios using Positive Marketing](https://youtu.be/bFGCPtozXdk)

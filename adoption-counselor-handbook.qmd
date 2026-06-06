@@ -1,0 +1,375 @@
+---
+title: "Adoption Counselor Handbook"
+---
+
+# Overview of Adoption Process
+
+- **Potential Adopter** submits an Adoption Survey.
+
+- **Adoption Program Lead** notifies the Discord channel [**#adoption-counseling**](https://discord.com/channels/1238942010786975875/1281028302685081661).
+
+- **Adoption Counselor** responds in the Discord channel to claim the call.
+
+- **Adoption Program Lead** forwards the completed Adoption Survey to the **Adoption Counselor** by email.
+
+- **Adoption Counselor** reviews the Adoption Survey according to the guidelines below.
+
+- **Adoption Counselor** contacts **Potential Adopter** directly by email or text to resolve missing or concerning information from the Adoption Survey, if there is any.
+
+- **Adoption Counselor** schedules and completes the [**Adopter Screening Form v1.2**](https://forms.gle/PHBoJmr9Nrj4Rdxy6) during the call.
+
+  - If a call is **not** scheduled, or if your schedules conflict or availability changes, notify the Discord channel **#adoption-counseling**.
+
+- **Adoption Program Lead reviews the completed Adopter Screening Report and decides whether we can approve.**
+
+  - If a **Potential Adopter** is not approved, we will notify them.
+
+- **Adoption Program Lead sends the [Adopter-Foster Connection Email](https://docs.google.com/document/d/18Rht-vY0Gddz1kvsqxn1kftqNq1iBjgDufVnsaa73vo/edit?tab=t.0#heading=h.78qx0cbrst6r).**
+
+- **Foster Caregiver** contacts the **Potential Adopter** directly by email or phone to schedule an Adoption Visit.
+
+# Before the Adoption Counseling Call
+
+## Reviewing Adoption Surveys
+
+**DO NOT SKIP THIS STEP!** I put these questions in the survey for a reason! Our philosophy is that we do not ask anything that we do not truly use. When reviewing adoption surveys, consider the following questions:
+
+- Is any essential information missing?
+
+  - We do not screen adopters with incomplete information (such as if they left their address blank). We would contact them by email.
+
+- Are they over the age of 21 years old?
+
+- Is the address a legitimate one? 
+
+- Do they live in Cuyahoga County? Are they within a reasonable distance from the foster home?
+
+- Does their first choice of a day to meet the cat make sense given the timeframe they stated they are prepared to adopt (immediately, within a week, within a month)?
+
+- For example, if someone selects “more than one month,” but has today’s date as the soonest they are available for an adoption visit, we should resolve that inconsistency and ensure they’re prepared to adopt within 3 days before contacting them. 
+
+![](images/Screenshot%202026-04-24%20155247.png)
+
+- Are there any red flags **on the survey** that are important to ask about?
+
+  - Current cat is indoor/outdoor or outdoor only
+
+  - Lifestyle section is left blank (some people just miss it)
+
+  - Selected that they would like to learn more about “indoor/outdoor lifestyles”
+
+- Did they list a specific cat or kitten?
+
+  - If they don’t have a specific cat or kitten listed, send them **one or two** specific options. Do not send them an exhaustive list of all of our cats. Make it easy for them, and say why you think it would be a good fit based on the traits they are looking for in a cat. Ask if they would like to learn more about one or the other. 
+
+  - It’s okay if they’re unsure, but we need them to commit to either 1) a certain cat; or 2) one or two potential cats. **Do not bother screening people who don’t have a cat in mind. Follow-up with them until they decide, if they decide.**
+
+- Is the cat they listed still available?
+
+  - Don't leave adopters hanging. If the cat they wanted is taken, send them **one or two** of our available cats who may be a fit based on the traits they selected and who has been waiting the longest for adoption. Our goal is to help people find the cat they are looking for. Part of that is providing accurate descriptions. If you have questions about a cat, you can always ask the foster parent or me (Megan) if I held them long enough to be familiar with them.
+
+- If they want a kitten, do they have another cat at home?
+
+  - If they want a young kitten (\< 3-4 months) and **do not** have a cat at home, we are likely not going to prioritize that adopter for the kitten.
+
+I respond to those surveys by asking if they are open to considering two kittens, or if they would be willing to consider a cat who is “a few months older” (if the cat you’re suggesting really is) or “a young adult.” Do this **before** scheduling the adoption counseling call.
+
+::: {.callout-tip appearance="minimal"}
+## EXAMPLE EMAIL SCRIPT
+
+Hi \_\_\_\_\_\_\_,
+
+Thank you so much for your interest in adopting from us. We’d love to help you find a great fit!
+
+Because you don’t currently have another cat at home, I wanted to share a quick note about kittens at this age. Very young kittens rely on other cats to learn things like play boundaries, bite inhibition, and how to regulate their energy. When they’re raised alone, we often see them become overly rough during play, more destructive, or frustrated because they don’t have an outlet for that constant kitten energy. For that reason, we prioritize placing young kittens either in pairs (so they can grow up together and meet each other’s social needs), or in homes with an existing cat who can take on that role. You can read a bit more about the “two kitten” approach here: <https://www.kittenlady.org/twokittens>.
+
+If adopting two kittens isn’t what you’re looking for, a single young adult can be a much better fit. They’re more independent, already have established behavior, and still adjust very well to new homes. 
+
+We would love to learn more about what direction feels like the best fit for you! Would you be open to considering two kittens, or would you be interested in learning more about some young adult cats who might match what you’re looking for?”
+
+**\[If they respond that they do not want two kittens or a young adult cat\]:**
+
+We completely understand! There are many local shelters that will adopt out single young kittens. We recommend checking out Cleveland APL in Tremont. You can find more information about them here: <https://clevelandapl.org/adopt/adopting-from-the-apl/adoptable-animals/>.
+:::
+
+- If they have cats, are their current cats indoor only, up-to-date on vaccinations, and spayed/neutered? How old are the cat(s)?
+
+- If they have dogs, what breed is the dog? 
+
+- If they have children, how old are they?
+
+- If they want a cat who is good with dogs/children/other cats, did they disclose that they had dogs/children/other cats?
+
+  - If not, be sure to ask them about why they are looking for a cat who is good with dogs/children/other cats. Are they planning on getting a dog, having a child, or getting other cats? Do they have animals or children that they didn’t disclose on the survey?
+
+- Are you prepared to discuss the topics that they wanted more information on?
+
+- What questions do you have based on the adopter’s survey? Be sure to take notes and cover them during the call.
+
+## Cat Profiles
+
+- What do the internal notes on the Adoptable Cats spreadsheet say? Are there any special situations or restrictions for this cat?
+
+- What does the cat’s Petfinder profile say about them? Pay attention to whether we know if they are good with cats, dogs, children, and other animals.
+
+- Based on what the prospective adopter’s survey looks like and the cat’s profile, do you have any additional questions you need to ask the adopter to ensure they will be a good match?
+
+# ADOPTER FAQs
+
+## Can I meet multiple cats or do you offer meet-and-greets?
+
+We don’t offer meet-and-greets. Because we’re a foster-based rescue, our kittens are in private homes and get adopted quickly. We also work with multiple adopters at the same time, so we’re not able to hold kittens while someone decides.
+
+We schedule adoption visits for adopters who are ready to move forward with a specific kitten or pair. Before that, our counselors are happy to share photos, videos, and everything we know about their personalities to help you choose.
+
+## If I get to my adoption visit and prefer a different kitten, can I switch?
+
+We’re not able to switch kittens at the visit if another kitten already has a pending adopter. Because of how quickly kittens are placed, we ask adopters to come to the visit prepared to move forward with the kitten they selected.
+
+## Do you offer trial adoptions or foster-to-adopt?
+
+We don’t offer trial adoptions or foster-to-adopt. Our goal is to place cats in permanent homes from the start. If you’re unsure, we’re always happy to talk through any concerns before moving forward. If you’re not ready to adopt, you may wish to consider becoming a foster.
+
+## Do you accept returns?
+
+Yes. We will always take a cat back, no matter how long ago they were adopted.
+
+## What if my cat gets sick right after adoption?
+
+This is not a common occurrence, but if this happens, please contact help\@communitycatproject.org as soon as possible if any concerns come up.
+
+Many of our cats come from outdoor environments with unknown histories, so while they are evaluated and treated before adoption, some conditions can appear later. We can’t guarantee or cover medical costs, but we can provide guidance and, if needed, take the cat back into our care for treatment. We recommend scheduling a vet visit soon after adoption, especially before introducing a new cat to any resident pets.
+
+## I don’t have another cat but I want a young kitten. Can you make an exception?
+
+We completely understand the appeal of a young kitten. We do not place single kittens under the age of 3-4 months. Kittens learn critical social behaviors from other cats—like play boundaries and bite inhibition—and need an outlet for their energy. When raised alone, they’re more likely to develop rough play or frustration behaviors. For that reason, we place kittens either in pairs or in homes with an existing cat. You can read more here: https://www.kittenlady.org/twokittens
+
+If you’re looking for one cat, a young adult is often a better fit. They’re more independent and adjust very well to new homes. If you prefer to adopt a single young kitten, other organizations such as Cleveland APL may be a good option. You can find more information about them here: https://clevelandapl.org/adopt/adopting-from-the-apl/adoptable-animals/.
+
+# The Adoption Counseling Call
+
+If they do not schedule a call with you in a reasonable time, or if you have unresolved items from the adoption survey review, then **do not bother scheduling a call yet.** Resolve those first. If they can’t be resolved, move on.
+
+I like to start out by introducing people to our organization, and giving an overview of what we do. This also helps to set expectations about the types of cats that we adopt out. These are not cats who have been indoors for long periods of time, or who are used to living inside with humans. Ask additional questions as you see fit depending on how the conversation goes. Try to keep the conversation flowing naturally. Check off topics as they come up during conversation. At the end of the call, ensure you ask anything that didn’t come up. We don't ask these in a rapid-question, interview style. We just steer the conversation naturally, listen carefully to build off of what they are telling you, and educate as you go.
+
+# Adoption Counseling Scenarios
+
+## Adopter Report 1: Indoor/Outdoor Cat
+
+**NOTE:** At this point, in 2026, I wouldn’t even bother screening this person. Educate by email, recommend other shelters, and move on. I’m leaving it here so you understand my thought process when reviewing surveys, and how we make decisions about adopters.
+
+### Basic Information:
+
+Adopter is 39 years old, lives with partner and three children aged 2, 6, and 8 years. She is looking for an indoor/outdoor cat. Her current cat is 11 years old, indoor/outdoor, and she stated in the comments that he is currently dying from liver cancer: “Our cat is dying from liver cancer (we adore him so much) and want to get a new kitty to fill our hearts. We are great animal owners.”
+
+### Survey Review (list of questions to ask from survey):
+
+- Has young children
+
+  - How are they with her current cat? Is her current cat's temperament especially amenable to children? What if her new cat is not -- would she need to return? How do her children interact with her current cat? How does she/would she redirect negative interactions between her cat and children? Is the cat she's applying for good with children, or does its personality seem like it would be amenable to children? 
+
+- Plans to do indoor/outdoor with new cat
+
+  - Why not indoors? What does outdoor access look like at her home -- is it supervised or enclosed? Does she know the risks of outdoor living for cats? How does she plan to prepare the cat for this lifestyle? Will the cat be microchipped? What will she do if the cat doesn't return to her home after being let out? What will she do if the cat is injured while outdoors?
+
+- Has an existing cat who is indoor/outdoor
+
+  - Why not indoors? Is her cat healthy? Is her cat spayed, vaccinated, microchipped, and on parasite medications? How did she introduce her cat to indoor/outdoor living? Where did she get her cat? (if from her neighborhood, of course the indoor/outdoor transition was easy -- this will not be the case for a new cat) If the new cat is planned for indoor only, how will she ensure it stays inside if her current cat goes outside?
+
+- Lets immunocompromised cat outdoors
+
+  - Why? Is it feral? Is this access supervised? How long is it outdoors? Is this consistent with the cat's veterinary care plan (e.g., a hospice situation and cat has always been outdoors, so risks are more justifiable)?
+
+### Outcome:
+
+This adopter was ultimately denied. During the screening call, she did agree to keep the cat indoors “unless it was absolutely adamant about going outside,” but this was not sufficient for me, especially since this adopter lived within a couple of miles from the cat’s original outdoor colony, and it could have ended up back there or be killed on its way trying to get there. Her current cat is also immunocompromised and was actively dying, and it did not seem to me like this was a good time to bring a brand new cat (formerly a community cat) home and to introduce him to the household. I discussed indoor/outdoor access first to be more efficient if that would end up being a reason for denial. We can encourage people interested in indoor/outdoor cats to apply for adoption at shelters rather than a community cat rescue. 
+
+## Adopter Report 2: Previous Negative Adoption Experience; Wants “Healthy” Cat
+
+### Basic Information:
+
+The adopter is 40 years old and lives with her partner. She has two cats (aged 18 years old and 6 months old) and two small dogs (aged 12 years old and 1 year old). In the comments section, she wrote: 
+
+“Our other kitten needs a friend (our senior girl isn't interested despite his attempts) and we need a cuddly lap cat and little spoon, especially since our dear girl Pancake passed away in September at the age of 15. Our other two cats do not sit on laps very often, although they do lay next to us. Consequently, laps are cold and empty these days, which isn't something we are used to, because Pancake was always there for 15 years. It is also very important to us that the cat we adopt has a clean bill of health, because the last two pets we adopted had illnesses that spread in our home, despite the shelters telling us they were healthy. This was very traumatic because we almost lost our senior girl as a result, and there were several months of little sleep, constant cleaning, stress, and very high vet bills. We are hoping to have a less difficult experience this time around, with an honest organization that cares about the other animals in the future home as much as they do about the pet they are homing.”
+
+### Impressions:
+
+I would like to understand more about what infectious diseases or parasites her previously adopted cats had that spread in her home. It is not wrong to want a healthy cat, or to select that you are looking for a cat with no health issues. It’s important to emphasize that unfortunately, part of being an honest rescue is acknowledging that we can’t guarantee the health of any of these cats. We vaccinate them, note symptoms on intake/exam, and test for FIV/FeLV. We do our best to identify symptoms of infectious diseases, but we have no way of knowing what they were exposed to outdoors, or what health problems they could develop in the future. I would hate for her to adopt this cat and have her get sick after, especially since we haven’t had her for more than a few days (and she has an 18 year old cat at home). 
+
+### Survey Review:
+
+- “Clean bill of health”
+
+  - Tell me more about what “clean bill of health” means to you. (this is not an unreasonable thing to want, but we need to ensure her expectations match the reality of how much knowledge we have about our rescue cats)
+
+- Last two pets she adopted had illnesses that spread in her home
+
+  - Can you tell me more about the previous pets you adopted that were sick? What illnesses did they have, and how did you manage those? (could it have been reasonably caught and addressed by the rescue, or was it truly something that couldn’t be anticipated?)
+
+- Almost lost her senior cat as a result of the illness that spread
+
+  - We care deeply about the welfare of existing animals and wouldn’t want to cause stress or potential health issues for animals currently in your care. Is your 18-year-old cat healthy right now? Is she immunocompromised, or on any medications? (Introducing ANY cat can be stressful, depending on their personality; however, I am more concerned about adopting a community cat who has been with us for a short time – too short to know whether she has been exposed to any contagious illnesses.)
+
+  - “Since we only rescue community cats, this cat previously lived outside and we do not have a detailed medical history on her. We do everything possible to ensure cats are free from contagious illness prior to adoption; however, there is a chance that she has been exposed to respiratory illnesses while she was outside, and sometimes the stress of change can cause symptoms. Would you be comfortable keeping her separate from your other cats, especially your older cat, for at least two weeks? This will help you monitor her and make sure she is not showing symptoms, and will also keep the stress level low by doing gradual introductions. Unfortunately, we can’t guarantee that she won’t get sick in the future, but she has not shown any signs of illness while in our care.”
+
+### Outcome:
+
+This adopter was excessively concerned about veterinary visits and spread of disease (understandably, as their current cat is 18, and it sounds like they recently incurred major veterinary burdens). We do not generally decide for people about whether they are ready to adopt. It is perfectly acceptable to express concerns about whether they are ready to adopt, though. In this case, it seemed like they were on the fence. They decided after the screening call and education that they were not ready, and they needed to think about it more. This seemed like the best choice for them. We will be here when they are ready to bring a new cat into their home.
+
+# What Do Adopters See?
+
+From start to finish, this is what adopters see. Adoption Counselors need to know what information Potential Adopters receive about our adoption process to ensure consistency and to inform your counseling call.
+
+They may have looked at our [Petfinder Listings](https://www.petfinder.com/search/pets-for-adoption/us/oh/southeuclid/?shelterRescue=5e184747-cbcb-4a03-b836-6b663298a21d&distance=anywhere&sort=oldest_addition). Our cat profiles on Petfinder have the same standard language at the bottom.
+
+## Before the Adoption Survey
+
+www.clecatproject.org/adopt
+
+**Adoption Policies**
+
+Cleveland Community Cat Project is dedicated to promoting the welfare of community cats and rescuing as many friendly cats and kittens as possible. We believe open, progressive adoption policies save lives. 
+
+Our adoption process involves completing a simple adoption survey with your basic information, other people and pets at home, and your preferences for adoption. We get back to interested adopters promptly, and have a brief conversation before scheduling an adoption visit.
+
+Our goal is to match you with the best cat for you and your household, and to find a loving home for our cats and kittens. We are incredibly grateful to our adopters for opening their homes to rescued animals and loving them for life. Our adopters often become our greatest supporters and volunteers.
+
+If you're excited to welcome a kitten into your home, please complete our adoption survey today!
+
+**Medical Policies & Adoption Fees**
+
+Our organization provides the highest level of care our resources allow for rescued cats, and we strive to communicate transparently about past medical issues and future care needs. Our average adoption fee is \$100, but fees are specific to each cat and are dependent on their care expenses. Adoption fees for kittens are typically higher due to the higher level of care required. All cats who enter our rescue receive:
+
+- **Comprehensive exam:** A full physical exam performed by one of our qualified veterinarians.
+
+- **Parasite treatment:** Treatment for fleas and intestinal parasites.
+
+- **Core vaccines:** Rabies vaccine, initial FVRCP vaccine (protects against Feline Viral Rhinotracheitis, Calicivirus, and Panleukopenia), and booster FVRCP vaccines as needed.
+
+- **Testing:** Testing for FIV/FeLV, two viruses that cats can contract outdoors.
+
+- **Sterilization:** Spay/neuter is performed for all cats without exception prior to adoption.
+
+- **Dentals:** Full dental exams are performed, and cats with dental disease who require extractions undergo a dental procedure.
+
+- **Additional treatments:** Cats who come to us with illness or injuries receive any necessary medical care prior to being cleared for adoption, and chronic conditions are discussed with adopters ahead of time.
+
+Discounted microchipping (\$35) is available post-adoption.
+
+[Petfinder Listings](https://www.petfinder.com/search/pets-for-adoption/us/oh/southeuclid/?shelterRescue=5e184747-cbcb-4a03-b836-6b663298a21d&distance=anywhere&sort=oldest_addition)
+
+\*\*\*FILL OUT OUR ADOPTION SURVEY:
+
+https://form.jotform.com/232266247399062
+
+If you are interested in adopting from us, please complete our adoption survey today! Adopters are contacted in the order that adoption surveys are received.
+
+\*\*\*ESSENTIAL INFO:
+
+- \*Good with other cats.
+
+- \*Litter-trained.
+
+- \*Fully socialized/friendly.
+
+- \*Fixed.
+
+- \*Rabies and FVRCP vaccinated.
+
+- \*Tested for FIV/FeLV.
+
+\*\*\*ADOPTERS WELCOME: Cleveland Community Cat Project is a nonprofit organization dedicated to promoting the welfare of community cats and rescuing as many friendly cats and kittens as possible. We believe open, progressive adoption policies save lives. We do not have rigid requirements of adopters. Our goal is to match you with the best cat for you and your household, and find a loving home for our cats and kittens.
+
+\*\*\*MEET OUR CATS: All cats and kittens are fostered in private homes to ensure they receive all the individualized attention and playtime that they deserve. This allows us not only to save kittens from growing up in a shelter environment, but also to communicate transparently with adopters about their personality traits. We are extremely responsive and flexible when it comes to scheduling visits.
+
+\*\*\*ADOPTION PROCESS: Once you decide to adopt, you will complete the Adoption Contract and adoption fee electronically within the form. You will receive our Adopter Information Packet, the cat's veterinary summary, and a receipt for your donation. Because we are a 501(c)(3) nonprofit charity, your adoption fee is a tax-deductible donation. We offer post-adoption support and counseling, and are always here if you have questions. We hope everything works out well with your new cat, but we understand that sometimes, the cat you bring home is not a fit for you and your family. That’s okay! Our team is here to support you through the difficult decision to return your pet to Cleveland Community Cat Project if it isn’t working out.
+
+Instagram: \@CLEcatproject
+
+https://www.clecatproject.org/adopt
+
+[**Adoption Survey**](https://form.jotform.com/232266247399062)
+
+## After Approval
+
+### Adopter-Foster Connection Email
+
+Hi  \_\_\_\_\_\_,
+
+Thank you so much for your interest in adopting  \_\_\_\_\_\_!
+
+\_\_\_\_\_\_, cc'ed, is the foster caregiver and will reach out to schedule an adoption visit.
+
+Please remember to bring a secure carrier with you to your adoption visit. Before or during your visit, you can complete the Adoption Contract (linked below) and pay the adoption fee within the form. You will receive a separate email with a copy of the veterinary records within 48 hours of adoption.
+
+[**Adoption Contract**](https://www.jotform.com/form/233116343720143)
+
+Attached are our [Adopter Information Packet](https://docs.google.com/document/d/1IC9Ex5MOB5d1N8SNsbhzCZvGrLRSJGNwnhBOGXPiTh0/edit?usp=sharing), [3-3-3 Rule Sheet](https://docs.google.com/document/d/1ZqRJRlbyiSKoXzmrnW4-QPRRXHVA9L50C5GF-QNs49I/edit?usp=sharing), and [Introducing Cats Handout](https://docs.google.com/document/d/1wplBzXABIfa8orcT5eoTdY2LkPKOxDq6fKkjiiuOpP0/edit?usp=sharing) with more details about our adoption process and policies, and tips for bringing a new cat home so you can read over them ahead of time.
+
+If you have any questions, please let us know!
+
+Thank you!
+
+### Adoption Contract Language (within pre-filled Adoption Contract link)
+
+1.  Adopter agrees that ownership of the Cat transfers to Adopter upon execution of this Agreement and payment of the adoption fee, subject to continued compliance with the terms and conditions set forth herein.
+
+2.  Adopter agrees that the Cat shall be kept indoors at all times and shall not be permitted to roam outdoors unsupervised, including but not limited to free-roaming or unsupervised yard access.
+
+3.  Adopter agrees that the Cat shall not be declawed or subjected to any elective surgical procedure intended to alter normal feline behavior, except as medically necessary and recommended by a licensed veterinarian.
+
+4.  Adopter agrees to have the Cat examined by a full-service licensed veterinarian within forty-five (45) days of adoption and to retain documentation of such examination upon request by Cleveland Community Cat Project.
+
+5.  Adopter agrees to provide timely and appropriate veterinary care for illness or injury and to maintain core vaccinations in accordance with generally accepted veterinary standards.
+
+6.  Adopter agrees that all veterinary expenses incurred after adoption, including those related to pre-existing or subsequently discovered conditions, are the sole responsibility of the Adopter, and that Cleveland Community Cat Project shall not reimburse such expenses.
+
+7.  Adopter agrees not to euthanize the Cat except upon the recommendation of a licensed veterinarian for humane reasons and agrees to notify Cleveland Community Cat Project prior to euthanasia whenever reasonably possible.
+
+8.  Adopter agrees not to sell, give away, transfer, abandon, or relinquish ownership or custody of the Cat to any individual, shelter, rescue, or organization without the prior written consent of Cleveland Community Cat Project.
+
+9.  If at any time Adopter is unable or unwilling to retain the Cat, Adopter agrees to return the Cat to Cleveland Community Cat Project and shall not surrender the Cat to any other individual or entity.
+
+10. Adopter acknowledges that Cleveland Community Cat Project makes no representations or warranties regarding the Cat’s health, temperament, or training, and that the Cat is adopted as is, except as expressly stated in this Agreement.
+
+11. Adopter acknowledges that the adoption fee is non-refundable and is not contingent upon the Cat’s health, behavior, or future circumstances.
+
+12. Adopter agrees that Cleveland Community Cat Project shall not be liable for any injury, damage, or loss caused by the Cat after adoption and agrees to assume all responsibility associated with ownership of the Cat.
+
+13. Adopter acknowledges that failure to comply with the terms of this Agreement constitutes a material breach. In the event of breach, Cleveland Community Cat Project reserves the right to reclaim custody of the Cat and to pursue any remedies available under applicable law.
+
+14. This Agreement shall be governed by and construed in accordance with the laws of the State of Ohio.
+
+## After Adoption
+
+### Email with Veterinary Record
+
+(link to download Complete Medical History; we try to send within 48 hours of adoption)
+
+### Complete Medical History (sample)
+
+[Sample - Kitten (\< 12 weeks)](https://new.shelterluv.com/animals/documents/complete-medical-history?animals=213498588)
+
+#### **Medical Disclaimer Language (general, in every medical history)**
+
+A NOTE FROM OUR MEDICAL DIRECTOR
+
+Cleveland Community Cat Project is committed to rescuing and providing care for cats and kittens in our community. These animals often come to us with unknown medical histories, having previously lived as outdoor cats. They may have been exposed to various environmental factors, diseases, and parasites during their time outdoors, which may not be immediately evident upon intake. Our intake protocol for all cats is to spay/neuter, vaccinate, apply flea/parasite treatment, and test for FIV/FeLV. We adhere to the American Association of Feline Practitioners (AAFP) guidelines for vaccination and retrovirus testing of community cats and adoptable kittens.
+
+Cats who come to us with illness or injury receive treatment through our organization or partnering organizations prior to adoption. A licensed veterinarian oversees all care our cats receive and provides medical clearance for cats prior to adoption. While we make every effort to ensure adoptable cats are healthy before adoption, we cannot guarantee the health or wellness of the cats and kittens we rescue, nor can we predict whether they will be free from future health issues. We strongly recommend scheduling an appointment for your new cat with a qualified, full-service veterinarian as soon as possible to ensure the cats’ continued health and well-being. If you have other cats, we recommend scheduling an exam for your new cat with a veterinarian prior to introducing them.
+
+We appreciate your commitment to providing a loving home and ongoing care for your new cat. For questions about the veterinary care your new cat has received, please contact me directly.
+
+Dr. Benjamin Zucker, DVM, Medical Director
+
+bzucker\@communitycatproject.org
+
+## When Returning a Cat
+
+Adopters must contact help\@communitycatproject.org **first** if they are requesting to return a cat. We make every effort to help them keep their newly adopted cat in their care by troubleshooting issues. We record all return requests and notes regarding adopters to track the success of our Adoption Program. High numbers of returns mean we are failing, either in the adoption counseling, the post-adoption support, or both, to match the right adopters with the right cats. The first thing I do when we receive a return request is to go back and review the completed Adopter Screening Report.
+
+If the adopter is insistent that they must return, or if we feel it is truly in the cat’s best interest to be returned, adopters complete a [Return Release Form](https://form.jotform.com/240965147657164). **Do not ever send an adopter this form yourself.** Review the entire form in full so you understand what adopters must complete before returning a cat.
+
+These are the instructions at the top of the form:
+
+“Please complete the following form if you are proposing to return a cat you have adopted from Cleveland Community Cat Project. We are completely foster-based with no physical shelter. Because of this, we are unable to accept immediate returns under any circumstances; however, we prioritize cats who are being returned over other cats in need of rescue, and will attempt to process your request as quickly as possible. Completing this form does not guarantee we will be able to accept a return immediately, nor does it guarantee the cat will be able to be fostered or adopted again. At Cleveland Community Cat Project, we believe adopting a cat means committing to them forever, and working hard to overcome any issues that arise. We strongly urge you to explore all other options prior to considering returning your cat. Our team will contact you once your request has been processed.”

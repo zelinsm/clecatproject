@@ -1,0 +1,377 @@
+---
+title: "Adoption Counselor Training"
+toc: true
+toc-depth: 3
+page-layout: article
+format:
+  html:
+    theme: cosmo
+    smooth-scroll: true
+    code-fold: false
+---
+
+# Adoption Counselor Role Description
+
+::: panel-tabset
+## Position Summary
+
+This position is responsible for screening potential adopters, conducting adoption interviews, and providing guidance throughout the adoption process. The Adoption Counselor collaborates closely with the Adoption Program Lead to review applications, address concerns, and ensure successful matches between cats and adopters.
+
+## Key Responsibilities
+
+- Review and screen adoption applications.
+
+- Conduct interviews with prospective adopters to ensure alignment with adoption policies.
+
+- Educate adopters about responsible pet ownership, including cat care, behavior, and medical needs.
+
+- Maintain clear and timely communication with the Adoption Program Lead regarding potential adopters.
+
+- Ensure all adoption screening forms are completed and properly documented.
+
+- Provide recommendations for cat-adopter matches based on lifestyle, experience, and expectations.
+
+- Follow-up with the adopters you screened for updates post-adoption.
+
+## Qualifications & Skills
+
+- Strong communication and people skills.
+
+- Ability to assess adopter suitability while maintaining professionalism.
+
+- Passion for animal welfare and understanding of responsible pet ownership.
+
+- Comfortable discussing topics such as pet behavior, medical care, and transition periods.
+
+- Alignment with our philosophy on conversation-based adoption screening, focus on education, and transparent communication.
+
+## Time Commitment
+
+- Flexible, with some weekend and evening availability for adoption interviews.
+
+- Adoption interviews are conducted by phone call and typically last 30-45 minutes.
+:::
+
+# Welcome & Adoption Philosophy
+
+## Mission
+
+Our adoption process is designed to:
+
+- Place cats into stable lifelong homes
+
+- Reduce unnecessary adoption barriers
+
+- Educate adopters rather than reject them whenever possible
+
+- Match adopters to appropriate cats
+
+- Support adopters after adoption
+
+## Core Philosophy
+
+::: callout-important
+Our goal is not to "catch bad adopters."
+
+Our goal is to educate, support, and make thoughtful matches while protecting cats.
+:::
+
+## Core Policies
+
+- Conversational screening
+
+- Nonjudgmental communication
+
+- Indoor-only policy
+
+- No declawing
+
+- Lifelong commitment
+
+- Education-first approach
+
+- Transparent communication
+
+# Adoption Workflow
+
+```{mermaid}
+flowchart TD
+    A[Adoption Survey Submitted] --> B[Counselor Claims Applicant]
+    B --> C[Survey Review]
+    C --> D[Schedule Call]
+    D --> E[Conduct Screening Call]
+    E --> F[Submit Screening Form]
+    F --> G[Leadership Review]
+    G --> H[Adoption Visit]
+    H --> I[Contract + Adoption]
+    I --> J[Post-Adoption Follow-up]
+```
+
+# Preparing for the Call
+
+## Required Pre-Call Review
+
+```         
+- [ ] Verify adopter is over 21
+- [ ] Confirm address is complete
+- [ ] Confirm cat is still available
+- [ ] Review household pets
+- [ ] Review children in household
+- [ ] Review outdoor access concerns
+- [ ] Review kitten-only concerns
+- [ ] Review any contradictory responses
+```
+
+## Common Survey Red Flags
+
+::: callout-warning
+## Immediate Concerns
+
+- Wants a single kitten under 3-4 months with no cat at home
+
+- Indoor/outdoor plans
+
+- Plans to declaw
+
+- Incomplete survey
+
+- No cat selected
+
+- Existing unaltered pets
+
+- Severe mismatch between expectations and cat needs
+:::
+
+# Conducting the Adoption Counseling Call
+
+## Communication Style
+
+### Expectations
+
+- Keep the conversation natural
+
+- Use open-ended questions
+
+- Avoid interrogation-style pacing
+
+- Educate throughout the call
+
+- Redirect concerns calmly
+
+### Example Question Framing
+
+| Avoid | Better Alternative |
+|-----------------------------|-------------------------------------------|
+| "Would you return a cat?" | "Can you think of situations where keeping a cat might become difficult?" |
+| "Do you know how to introduce cats?" | "What is your plan for introducing the cats?" |
+| "Will you keep the cat indoors?" | "Tell me what lifestyle you envision for your cat." |
+
+## Required Counseling Topics
+
+### 3-3-3 Rule
+
+::: callout-note
+- 3 days to decompress
+
+- 3 weeks to learn the routine
+
+- 3 months to feel fully at home
+:::
+
+## Required Education Areas
+
+- Safe confinement room
+
+- Gradual decompression
+
+- Veterinary follow-up
+
+- Resource distribution for multi-cat homes
+
+- Slow introductions
+
+- Kitten safety
+
+- Indoor-only policy
+
+# Red Flags and Denials
+
+## Denials Are Rare
+
+::: callout-important
+Adopters are never denied based on:
+
+- Income
+- Appearance
+- Personality
+- "Gut feeling"
+- Lifestyle assumptions
+:::
+
+## Acceptable Denial Reasons
+
+- Persistent indoor/outdoor plans
+
+- Persistent declawing plans
+
+- Abuse toward volunteers
+
+- Severe neglect history
+
+- Unsafe mismatch
+
+- Leadership-approved exceptions
+
+# Kitten Policies
+
+## Single Kitten Policy
+
+::: callout-important
+Kittens under 3–4 months are not placed alone unless there is another compatible cat in the home or the kitten is uniquely suitable for being alone.
+:::
+
+## Why?
+
+- Bite inhibition
+
+- Social learning
+
+- Energy regulation
+
+- Prevention of behavioral frustration
+
+- Single kitten syndrome
+
+## Counseling Talking Points
+
+- Pair adoption benefits
+
+- Young adult alternatives
+
+- Realistic expectations
+
+# Resident Pets and Introductions
+
+## Recommended Introduction Timeline
+
+::: panel-tabset
+## Week 1
+
+Isolation room.
+
+## Week 2
+
+Scent swapping.
+
+## Week 3
+
+Space swapping.
+
+## Week 4
+
+Visual introductions.
+
+## Week 5
+
+Supervised interactions.
+
+## Week 6
+
+Gradual unsupervised time.
+:::
+
+## Key Counseling Goal
+
+Normalize slow introductions.
+
+# Children and Safety
+
+## Required Education
+
+- Always supervise children
+
+- Cats need escape spaces
+
+- Kittens are fragile
+
+- Teach respectful handling
+
+- No rough play
+
+## High-Risk Situations
+
+::: callout-warning
+Kittens can be seriously injured by:
+
+- Falling objects
+
+- Recliners
+
+- Doors
+
+- Rough handling
+
+- Large dogs
+
+- Sleeping in beds with humans
+:::
+
+# Veterinary Counseling
+
+## Required Medical Transparency
+
+Counselors should consistently explain:
+
+- Cats were formerly outdoors
+
+- Histories are often incomplete
+
+- Future illness cannot be predicted
+
+- Vet follow-up is essential
+
+- Isolation periods protect resident animals
+
+::: callout-important
+## Required Veterinary Reminder
+
+All adopters should schedule a veterinary visit within 45 days of adoption. We recommend doing so prior to introducing a new cat to a current cat.
+:::
+
+# Outdoor Access Conversations
+
+## Counseling Approach
+
+Goal:
+
+- Educate first
+
+- Understand motivation
+
+- Redirect toward safe alternatives
+
+## Suggested Alternatives
+
+- Harness walks
+
+- Catios
+
+- Window enrichment
+
+- Strollers
+
+- Indoor enrichment
+
+## Risks to Explain
+
+- Vehicles
+
+- Predators
+
+- Poisoning
+
+- Infectious disease
+
+- Getting lost
+
+- Mistaken identity as stray
