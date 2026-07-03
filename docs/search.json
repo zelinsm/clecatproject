@@ -32,7 +32,7 @@
     "href": "requesthelp.html",
     "title": "Request Help with Community Cats",
     "section": "",
-    "text": "Found Kittens?\n\nRequest Help with Adult Cats\nWe review requests from our community for assistance with community cats. If you are requesting help with a community cat, please complete the form below in full. We are not able to respond to requests that do not accompany a completed form.\nRequest Form"
+    "text": "Please complete the form below to request help with a community cat. We are not able to respond to requests that do not accompany a completed form.\nRequest Form\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\nImportant\n\n\n\nPlease note: Cleveland Community Cat Project is an all-volunteer organization. Our volunteers donate their time without compensation because they care about cats and their community. We have zero tolerance for abusive, threatening, harassing, or disrespectful behavior toward our volunteers. If you engage in this type of conduct, we will end all communication and decline to provide assistance. Our priority is protecting our volunteers so they can continue helping cats."
   },
   {
     "objectID": "index.html#see-us-in-action",
@@ -46,7 +46,7 @@
     "href": "foundkittens.html",
     "title": "Found Kittens?",
     "section": "",
-    "text": "If you found healthy kittens under 8 weeks old, please Leave Them Be! Even if they’re alone, their mom is likely still caring for them and will be back soon.\nIf you need help with kittens, complete the questions below so we can assist you. If we aren’t able to help directly, we may be able to connect you with resources or other organizations."
+    "text": "If you found healthy kittens under 8 weeks old, please Leave Them Be! Even if they’re alone, their mom is likely still caring for them and will be back soon.\nIf you are worried about tiny, neonatal kittens (under 2 lbs), complete the questions below.\nWe can provide guidance about the kittens’ ages, care needs, and whether removing them from their environment is appropriate (for example: if they are sick or injured). We can also connect you with other local resources. In some cases, we can offer limited veterinary services while the kittens are outside to improve their welfare while they await rescue.\n\n\n\n\n\n\nImportant\n\n\n\nThis form is for receiving guidance, not for requesting surrender or TNR. To request direct assistance from our organization, please complete our Request Form instead."
   },
   {
     "objectID": "foster-training.html",
@@ -606,35 +606,140 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "This directory provides local and national resources for individuals assisting community cats in Northeast Ohio. Our nonprofit is not directly affiliated with any of the organizations listed below and cannot guarantee services or availability. Please contact each organization directly for up-to-date information."
+    "text": "In most cases, a cat simply being outside is not an emergency. However, all community cats should be sterilized through trap-neuter-return (TNR). Please see the resource directory below for low-cost spay/neuter resources and information about trapping. Friendly cats can be adopted into homes on your own or through local rescues.\n\n\n\nFill out our Request Form. We prioritize requests for overpopulated colonies, where caretakers are actively engaged, or where there are sick or injured cats. We manage over 80 colonies of nearly 1,000 community cats total around Cleveland. If you need assistance with trapping at your own residence or backyard, we can provide resources or advice, but we are rarely able to provide direct assistance. We encourage residents to rent a trap and trap on their own. Our efforts are best directed toward trapping large, unmanaged colonies where community cat welfare is at its lowest.\n\n\n\nIf you haven’t already, fill out our Request Form to seek help from our organization. For urgent cases (such as if a cat was hit by a car), we recommend taking the cat to the closest emergency veterinary hospital:\n\nMedVet Cleveland West – 24 hours • 216-362-6000 • 20400 Emerald Pkwy, Cleveland, OH 44135\nMetropolitan Veterinary Hospital – 24 hours • 440-673-3483 • 734 Alpha Dr, Highland Heights, OH 44143\nWest Park Animal Hospital – open until 1 am • 216-252-4500 • 4117 Rocky River Dr, Cleveland, OH 44135\nVCA Great Lakes – 24 hours • 216-831-6789 • 4760 Richmond Rd, Warrensville Heights, OH 44128\n\n\n\n\nCats who appear pregnant are currently accepted for spays at the Cleveland APL without an appointment, Monday-Friday 7:45-8:45 AM.\n\n\n\nDon’t remove them right away. Fill out our Found Kittens form if you are looking for guidance about kittens, or our Request Form if you are looking for direct assistance.\n\n\n\nYou don’t. Healthy feral cats should not be removed from their territory. The most effective and humane approach is Trap-Neuter-Return (TNR). When cats are removed from an area, new unsterilized cats move in and begin breeding. This is known as the vacuum effect. Cleveland Community Cat Project does not assist with relocating or euthanizing healthy feral cats.\n\n\n\nWe encourage you to review our Guidance for Requesting Help from Rescues prior to reaching out to nonprofits. The guide explains how to work with rescues to give your cat the best possible chance of receiving help.\n\n\n\nWe cannot intake owned cats, but we are happy to help connect you with resources so you and your cat can remain together. We encourage owners to exhaust every reasonable option before surrendering an animal. If you must temporarily or permanently surrender your cat, the resource directory below contains a list of other local rescues and shelters.\n\n\n\nWe understand how difficult and overwhelming these situations can be. It is a leading cause of surrender and euthanasia. In most cases, it can be resolved with a structured, persistent approach. Even if you think you’ve tried everything, please read our Guidance for Feline House-Soiling before surrendering or euthanizing your cat."
   },
   {
-    "objectID": "resources.html#what-do-i-do-if-i-see-cats-outside",
-    "href": "resources.html#what-do-i-do-if-i-see-cats-outside",
+    "objectID": "resources.html#what-do-i-do-if-i-see-a-cat-outside",
+    "href": "resources.html#what-do-i-do-if-i-see-a-cat-outside",
     "title": "Resources",
-    "section": "What do I do if I see cats outside?",
-    "text": "What do I do if I see cats outside?\nIn most cases, a cat being outside is not an emergency. However, all community cats should be sterilized through trap-neuter-return (TNR). Friendly cats can be adopted into homes on your own or through local rescues."
+    "section": "",
+    "text": "In most cases, a cat simply being outside is not an emergency. However, all community cats should be sterilized through trap-neuter-return (TNR). Please see the resource directory below for low-cost spay/neuter resources and information about trapping. Friendly cats can be adopted into homes on your own or through local rescues."
+  },
+  {
+    "objectID": "resources.html#what-do-i-do-if-i-see-many-cats-outside",
+    "href": "resources.html#what-do-i-do-if-i-see-many-cats-outside",
+    "title": "Resources",
+    "section": "",
+    "text": "Fill out our Request Form. We prioritize requests for overpopulated colonies, where caretakers are actively engaged, or where there are sick or injured cats. We manage over 80 colonies of nearly 1,000 community cats total around Cleveland. If you need assistance with trapping at your own residence or backyard, we can provide resources or advice, but we are rarely able to provide direct assistance. We encourage residents to rent a trap and trap on their own. Our efforts are best directed toward trapping large, unmanaged colonies where community cat welfare is at its lowest."
   },
   {
     "objectID": "resources.html#what-if-the-cats-are-sick-or-injured",
     "href": "resources.html#what-if-the-cats-are-sick-or-injured",
     "title": "Resources",
-    "section": "What if the cats are sick or injured?",
-    "text": "What if the cats are sick or injured?\nIf you haven’t already, fill out our Request Form to seek help from our organization. For urgent cases (such as if a cat was hit by a car), we recommend taking the cat to the closest emergency veterinary hospital:\n\nMedVet Cleveland West – 24 hours • 216-362-6000 • 20400 Emerald Pkwy, Cleveland, OH 44135\nMetropolitan Veterinary Hospital – 24 hours • 440-673-3483 • 734 Alpha Dr, Highland Heights, OH 44143\nWest Park Animal Hospital – open until 1 am • 216-252-4500 • 4117 Rocky River Dr, Cleveland, OH 44135\nVCA Great Lakes – 24 hours • 216-831-6789 • 4760 Richmond Rd, Warrensville Heights, OH 44128"
+    "section": "",
+    "text": "If you haven’t already, fill out our Request Form to seek help from our organization. For urgent cases (such as if a cat was hit by a car), we recommend taking the cat to the closest emergency veterinary hospital:\n\nMedVet Cleveland West – 24 hours • 216-362-6000 • 20400 Emerald Pkwy, Cleveland, OH 44135\nMetropolitan Veterinary Hospital – 24 hours • 440-673-3483 • 734 Alpha Dr, Highland Heights, OH 44143\nWest Park Animal Hospital – open until 1 am • 216-252-4500 • 4117 Rocky River Dr, Cleveland, OH 44135\nVCA Great Lakes – 24 hours • 216-831-6789 • 4760 Richmond Rd, Warrensville Heights, OH 44128"
   },
   {
     "objectID": "resources.html#what-if-the-cats-appear-pregnant",
     "href": "resources.html#what-if-the-cats-appear-pregnant",
     "title": "Resources",
-    "section": "What if the cats appear pregnant?",
-    "text": "What if the cats appear pregnant?\nCats who appear pregnant are currently accepted for spays at the Cleveland APL without an appointment, Monday-Friday 7:45-8:45 AM."
+    "section": "",
+    "text": "Cats who appear pregnant are currently accepted for spays at the Cleveland APL without an appointment, Monday-Friday 7:45-8:45 AM."
   },
   {
-    "objectID": "resources.html#what-if-i-found-kittens",
-    "href": "resources.html#what-if-i-found-kittens",
+    "objectID": "resources.html#i-found-kittens-outside.-what-do-i-do",
+    "href": "resources.html#i-found-kittens-outside.-what-do-i-do",
     "title": "Resources",
-    "section": "What if I found kittens?",
-    "text": "What if I found kittens?\nSee the page below for more information and assistance if you found kittens outside.\nFound Kittens?"
+    "section": "",
+    "text": "Don’t remove them right away. Fill out our Found Kittens form if you are looking for guidance about kittens, or our Request Form if you are looking for direct assistance."
+  },
+  {
+    "objectID": "resources.html#how-do-i-get-feral-cats-removed-from-my-property",
+    "href": "resources.html#how-do-i-get-feral-cats-removed-from-my-property",
+    "title": "Resources",
+    "section": "",
+    "text": "You don’t. Healthy feral cats should not be removed from their territory. The most effective and humane approach is Trap-Neuter-Return (TNR). When cats are removed from an area, new unsterilized cats move in and begin breeding. This is known as the vacuum effect. Cleveland Community Cat Project does not assist with relocating or euthanizing healthy feral cats."
+  },
+  {
+    "objectID": "resources.html#i-took-in-a-community-cat.-now-what",
+    "href": "resources.html#i-took-in-a-community-cat.-now-what",
+    "title": "Resources",
+    "section": "",
+    "text": "We encourage you to review our Guidance for Requesting Help from Rescues prior to reaching out to nonprofits. The guide explains how to work with rescues to give your cat the best possible chance of receiving help."
+  },
+  {
+    "objectID": "resources.html#what-if-i-need-to-surrender-my-personal-cat-due-to-financial-difficulties",
+    "href": "resources.html#what-if-i-need-to-surrender-my-personal-cat-due-to-financial-difficulties",
+    "title": "Resources",
+    "section": "",
+    "text": "We cannot intake owned cats, but we are happy to help connect you with resources so you and your cat can remain together. We encourage owners to exhaust every reasonable option before surrendering an animal. If you must temporarily or permanently surrender your cat, the resource directory below contains a list of other local rescues and shelters."
+  },
+  {
+    "objectID": "resources.html#what-if-i-need-to-surrender-my-cat-who-is-urinating-inappropriately",
+    "href": "resources.html#what-if-i-need-to-surrender-my-cat-who-is-urinating-inappropriately",
+    "title": "Resources",
+    "section": "",
+    "text": "We understand how difficult and overwhelming these situations can be. It is a leading cause of surrender and euthanasia. In most cases, it can be resolved with a structured, persistent approach. Even if you think you’ve tried everything, please read our Guidance for Feline House-Soiling before surrendering or euthanizing your cat."
+  },
+  {
+    "objectID": "resources.html#trap-neuter-return-tnr",
+    "href": "resources.html#trap-neuter-return-tnr",
+    "title": "Resources",
+    "section": "Trap-Neuter-Return (TNR)",
+    "text": "Trap-Neuter-Return (TNR)\nTrap-Neuter-Return (TNR) is the most effective and humane way to manage community cat populations. Spaying and neutering helps prevent fighting, disease, and suffering among outdoor cats.\nAlley Cat Allies - How You Can Help Community Cats: A Step-by-Step Guide to Trap-Neuter Return\n\nTrap Rental or Purchase\nYou can rent humane traps from:\n\nPetFix Northeast Ohio\nCleveland Animal Protective League (APL)\n\nYou can also purchase your own trap. We recommend the Havahart 1079SR model: How to set a Havahart 1079 trap (video).\nAs of May 11, 2026, Brooklyn & Parma Heights Animal Control offers a TNR program for residents of Parma Heights. If you are a resident of Parma Heights, you may email mbraude@brooklynohio.gov with your full name, street and approximate number of cats."
+  },
+  {
+    "objectID": "resources.html#low-cost-spayneuter",
+    "href": "resources.html#low-cost-spayneuter",
+    "title": "Resources",
+    "section": "Low-Cost Spay/Neuter",
+    "text": "Low-Cost Spay/Neuter\nThe organizations listed below offer TNR or public low-cost spay/neuter programs. Requirements vary, and appointments may be limited. Please review the organizations’ requirements and adhere to their scheduling policies for spay/neuter of community cats.\nPregnant cats should be trapped and spayed as soon as possible. Cleveland APL currently accepts walk-ins for TNR of pregnant community cats in traps Monday through Friday, 7:45-8:45 AM.\n\nCleveland Animal Protective League - Trap-Neuter-Return Program\nPetFix Northeast Ohio - Community Cat Program\nMission Possible Animal Hospital\nPorter Pet Hospital\nAlterClinic Animal Care\nThe Great Life Vet\nPetGuardsClinic\n\nIf FVRCP vaccination is not included, ask to add it. FVRCP protects against common preventable diseases and is recommended for all cats. Cats being brought indoors should also be tested for FIV/FeLV before meeting other cats."
+  },
+  {
+    "objectID": "resources.html#walk-in-vaccine-services",
+    "href": "resources.html#walk-in-vaccine-services",
+    "title": "Resources",
+    "section": "Walk-In Vaccine Services",
+    "text": "Walk-In Vaccine Services\n\nVetco – 877-838-7468 • www.vetcoclinics.com\nVIP PetCare – 800-427-7973 • www.vippetcare.com"
+  },
+  {
+    "objectID": "resources.html#veterinary-care-and-financial-assistance",
+    "href": "resources.html#veterinary-care-and-financial-assistance",
+    "title": "Resources",
+    "section": "Veterinary Care and Financial Assistance",
+    "text": "Veterinary Care and Financial Assistance\nAssistance programs vary by eligibility, location, and need. Please search Pet Help Finder for additional low-cost options near you. For national assistance programs, please review resources compiled by Humane World for Animals.  \n\nSpay/Neuter Voucher Programs\n\nOhio Paws with Purpose – ohiopawswithpurpose@gmail.com \nValley Save-A-Pet Voucher Program – 440-232-2287\nCompanion Pets Voucher Program – 216-307-7814\n\n\n\nLocal Programs\n\nCleveland APL Project Care – 1729 Willey Ave, Cleveland OH 44113 • 216-255-5022 x117\nValley Save-A-Pet – 440-232-9124\nNeighborhood Pets Outreach & Resource Center –neighborhoodpetscle.org\nOne Health Organization –www.onehealth.org/get-help • 216-920-3051\nOhio Paws with Purpose – ohiopawswithpurpose@gmail.com\nAnimal Welfare Center of Ashtabula County – 440-462-0008\nWeirdo Cat Lovers of Cleveland – https://www.facebook.com/groups/WCLOCLE \n\n\n\nNational or Online Programs\n\nRedRover Relief –redrover.org/relief/urgent-care-grants\nBanfield Foundation HOPE Funds – via local Banfield Hospital,banfield.com\nThe Pet Fund – thepetfund.com \nPaws 4 A Cure – paws4acure.org \nWaggle – waggle.org \nCareCredit – carecredit.com \n\n\n\nEuthanasia Assistance\n\nOhio Paws with Purpose – ohiopawswithpurpose@gmail.com"
+  },
+  {
+    "objectID": "resources.html#low-cost-and-full-service-veterinary-clinics",
+    "href": "resources.html#low-cost-and-full-service-veterinary-clinics",
+    "title": "Resources",
+    "section": "Low-Cost and Full-Service Veterinary Clinics",
+    "text": "Low-Cost and Full-Service Veterinary Clinics\nYou can use this tool to find low-cost spay/neuter near you: https://www.unitedspayalliance.org/oh/ \n\nLow-Cost / Community Clinics\n\nBeachland Animal Hospital – 635 E 200th St, Euclid, OH 44119 • 216-531-4711\nGateway Animal Clinic – 1819 Abbey Ave, Cleveland OH 44113 • 216-771-4414\nCleveland APL Community Pet Clinic – 1729 Willey Ave, Cleveland OH 44113 • 216-255-5022\nCommunity Vet – 15541 Snow Rd, Brook Park OH 44142 • 216-273-1044\nPorter Pet Hospital – 27529 Lorain Rd, North Olmsted OH 44070 • 440-777-0888\nCleveland Veterinary Clinic – 8069 Euclid Ave, Cleveland OH 44103 • 216-563-1299\n\n\n\nRecommended Full-Service Clinic\n\nBelvoir Pet Hospital, Dr. Zucker – 4217 Mayfield Rd, Cleveland OH 44121 • 216-354-0390\n\n\n\nAdditional Full-Service Clinics\n\nLyndhurst Animal Clinic – 440-449-6644\nThe Family Pet Clinic – 216-662-1770\nTremont Animal Clinic – 216-298-5011\nAvon Lake Animal Clinic – 440-933-5297\nHeartLand Mobile Veterinary Service – 440-384-0029\n\n\n\nEmergency Clinics\n\nWest Park Animal Hospital – open until 1 am • 216-252-4500\nVCA Great Lakes – 24 hours • 216-831-6789\nMedVet Cleveland West – 24 hours • 216-362-6000\nMetropolitan Veterinary Hospital – 24 hours • 440-673-3483"
+  },
+  {
+    "objectID": "resources.html#pet-food-assistance",
+    "href": "resources.html#pet-food-assistance",
+    "title": "Resources",
+    "section": "Pet Food Assistance",
+    "text": "Pet Food Assistance\n\nCuyahoga County\n\nCC’s Cupboard – Richmond Heights OH\nCleveland APL Project CARE – 216-255-5012\nCompanion Pets of Cleveland – 216-307-7814\nNeighborhood Pets CLE – 216-505-5853\nFriends of Cuyahoga County Animal Shelter – 216-706-9363\nBerea ARF – 440-234-2034\nHopeful Paws Pet Food Pantry\nNever Surrender Pet Pantry\n\n\n\nNeighboring Counties\n\nAuggie’s Pet Food Pantry (Lake Humane Society) – 440-951-6122\nFriendship APL (Lorain County) – 440-322-4321 x299\nPeople Care Pet Pantry (Summit & Portage County) – 330-389-5116\nAnimal Welfare Center of Ashtabula County – 440-462-0008\nOhio Paws with Purpose (Northeast Ohio) – 440-520-4881"
+  },
+  {
+    "objectID": "resources.html#emergency-foster-care-options",
+    "href": "resources.html#emergency-foster-care-options",
+    "title": "Resources",
+    "section": "Emergency Foster Care Options",
+    "text": "Emergency Foster Care Options\nTemporary care for pets during crisis situations such as illness, domestic violence, or homelessness.\n\nUnder the Wing Program – Berea Animal Rescue Friends • 440-234-2034\nPeople with Pets Outreach Project – Lakewood OH • 216-801-1212\nFeeding Pets of the Homeless – National • 775-841-7463"
+  },
+  {
+    "objectID": "resources.html#surrendering-a-cat-foster-based-rescues-and-shelters",
+    "href": "resources.html#surrendering-a-cat-foster-based-rescues-and-shelters",
+    "title": "Resources",
+    "section": "Surrendering a Cat: Foster-Based Rescues and Shelters",
+    "text": "Surrendering a Cat: Foster-Based Rescues and Shelters\nWe have no formal partnership or agreements with the following organizations. Inclusion in this list does not constitute endorsement.\nRescues and shelters across Northeast Ohio are at or near capacity year-round. Please consider every possible alternative before surrendering a cat. If you are able, foster the cat through a rescue or rehome the cat privately using adoption platforms or social media. Our organization strongly discourages surrendering cats unless absolutely necessary. Rescues and shelters are overwhelmed, and surrender should always be a last resort. If possible, foster or rehome directly through a reputable rescue. Please review these additional tips provided by Humane World for Animals. \nNever surrender feral cats to shelters or barn home programs. Feral cats should always be trapped, fixed, and returned to their original territory. We do not support barn home programs under any circumstances.\n\nBerea Animal Rescue Friends (ARF) – 390 Barrett Rd, Berea, OH 44017 – (440) 234-2034\nBuckeye Sanctuary Rescue – 4866 Center Rd, Brunswick, OH 44212 – (330) 460-6347\nCats Are People Too! – Warren, OH 44482 – catsarepeopletoo@embarqmail.com\nCat Welfare – Columbus, OH\nCleveland Animal Protective League (APL) – 1729 Willey Ave, Cleveland, OH 44113 – (216) 771-8825\nColony Cats – Columbus, OH\nCommunity Cats of Lake & Ashtabula Co. –lakecountycommunitycat.org\nCompanion Pets of Cleveland – 5376 Ridge Rd, Parma, OH 44129 – (216) 307-7814 – companionpetsofcleveland@gmail.com\nCozy Cat Cottage – Columbus, OH\nEuclid Animal Shelter (Euclid Residents Only) – 25100 Lakeland Blvd, Euclid, OH 44132 – (216) 289-2057\nEuclid Beach Cat Project – (216) 246-4206\nForever Friends Foundation – Northfield, OH 44067 – (216) 453-2670\nFriendship APL – 8303 Murray Ridge Rd, Elyria, OH 44035 – (440) 322-4321\nHappy Tails Sanctuary – Chesterland, OH 44026 – (440) 759-0076 – happytailscatsanctuary@gmail.com\nHouse of Mews Rescue – (440) 494-6397 (MEWS)\nHumane Society of Summit County – 7996 Darrow Rd, Suite 30, Twinsburg, OH 44087 – (330) 487-0333\nItty Bitty Kitty Committee –ittybittykittycommittee.org\nKamm’s Cat Guardians –kcguardians.org\nKelly’s Kritters – Solon, OH 44139 – (440) 552-1096\nKitten Krazy – Medina, OH – (330) 591-4408\nLake Humane Society – 7564 E. Tyler Blvd, Mentor, OH 44060 – (440) 951-6122\nLakewood Animal Shelter (Lakewood Residents Only) – 1229 Metropark Dr, Lakewood, OH 44107 – (216) 529-5020\nLove-A-Stray – loveastray@gmail.com\nLucky Paws – (Independent rescue; contact via social media)\nMaddox and Friends Rescue –maddoxandfriends.org\nMedina County SPCA (Medina Residents Only) – 8790 Guilford Rd, Seville, OH 44273 – (330) 723-7722\nMutts in a Rut Rescue – muttsinarutrescue@gmail.com\nNortheast Ohio SPCA –northeastohiospca.org\nOne of a Kind Pet Rescue – 1929 W Market St, Akron, OH 44313 – (330) 865-6200\nParma Animal Shelter – 6260 State Rd, Parma, OH 44129 – (440) 885-8014\nPaws and Prayers Rescue – (330) 475-8300\nPAWS Ohio (Public Animal Welfare Society) – PO Box 24651, Cleveland, OH 44124 – (440) 442-PAWS (7297) – support@pawsohio.org\nPet Promise – Columbus, OH\nPurrfect Companions Cat Sanctuary –purrfectcompanionsscrc.org\nPurrfect Little Warriors Kitten Rescue –purrfectlittlewarriors.org\nPurrfect Partners Ohio (TNR Service) – (440) 209-2822\nRescue Village (Geauga Humane Society) – 15463 Chillicothe Rd, Russell Township, OH 44072 – (440) 338-4819 – intake@geaugahumane.org\nRiggi Rescue –riggirescue.org\nStay-A-While Cat Shelter – 8800 Atkins Rd, North Royalton, OH 44133 – (440) 582-4990\nStorms Angels –stormsangels.org\nTails from the City – tailsfromthecity.tftc@gmail.com \nToby’s Critter Cove Rescue –tobyscrittercoverescue.org\nTucker and Friends Rescue – tuckerandellieproject@gmail.com – (440) 373-7889\nValley Save-A-Pet – (440) 232-9124\nViva Los Gatos Cat Rescue – PO Box 241593, Cleveland, OH 44124-8593 – (216) 755-GATO (4246)\nWaterloo Alley Cat Project –waterlooalleycatproject.org\nWhisker Lickers – (Independent rescue; contact via social media)"
+  },
+  {
+    "objectID": "resources.html#caring-for-community-cats-outdoors",
+    "href": "resources.html#caring-for-community-cats-outdoors",
+    "title": "Resources",
+    "section": "Caring for Community Cats Outdoors",
+    "text": "Caring for Community Cats Outdoors\nThe best way to care for community cats is to ensure all cats are fixed and vaccinated (FVRCP and Rabies). In addition to sterilization and vaccination, providing food, water, and shelter helps community cats thrive. Our organization recycles Styrofoam coolers to make insulated cat shelters. You can request one using this link for a small donation: Insulated Cat House Request Form. You can also make your own using a plastic tote and straw (not hay or blankets!): Alley Cat Allies - DIY Cat Shelter (video)."
+  },
+  {
+    "objectID": "resources.html#lost-or-missing-cats-in-cleveland",
+    "href": "resources.html#lost-or-missing-cats-in-cleveland",
+    "title": "Resources",
+    "section": "Lost or Missing Cats in Cleveland",
+    "text": "Lost or Missing Cats in Cleveland\nIf your cat is lost, act quickly. Most cats remain close to home and can be found with prompt, consistent effort. Follow these steps to improve your chances of a safe reunion.\n1. Search Your Immediate Area. Begin looking as soon as you notice your cat is missing. Most lost cats are hiding within a few houses’ distance. Check under porches, in garages, sheds, crawl spaces, and dense shrubs. Go out at dusk or dawn when it’s quiet, and softly call your cat’s name while listening for meows.\n2. Use Familiar Scents to Help Guide Them Home. Place your cat’s litter box, bedding, or favorite blanket outside to help them recognize home by smell. Leave out food only if you are monitoring it, as it can attract wildlife.\n3. Notify Local Animal Agencies. Contact or visit nearby shelters and animal control facilities to report your cat missing.\n\nCleveland Division of Animal Care & Control – 216-664-3069\nCleveland Animal Protective League (APL) –clevelandapl.org\n\nBring a clear photo and your contact information. Continue checking back frequently. Many shelters receive new intakes daily.\n4. Post on Social Media and Local Networks. Share your cat’s photo, name, sex, spay/neuter status, microchip status, identifying features, date they were lost, and last known location on these local Facebook groups and community platforms:\n\nPawBoost\nPetco Love Lost\nLost Pets Cleveland, OH\nSam the Parrot – Lost & Found Pets NE Ohio\nNextdoor\nPost on neighborhood Facebook groups and Ring\n\n5. Create Flyers and Talk to Neighbors. Distribute flyers within several blocks of your home. Include your cat’s photo, description, and your contact number. Ask neighbors to check garages and sheds—many cats get accidentally trapped inside. Ask neighbors to check cameras.\n6. Continue Checking and Expanding the Search. Cats may hide for several days before emerging, so keep searching even if time passes. Revisit areas at night and refresh online posts every few days to stay visible."
   },
   {
     "objectID": "volunteer-training.html",
