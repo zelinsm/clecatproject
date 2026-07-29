@@ -1,15 +1,46 @@
 ---
 title: "About Cleveland Community Cat Project"
+toc: false
 ---
 
 ## What We Do
 
-We do targeted Trap-Neuter-Return (TNR). We provide advanced veterinary care to community cats, whether feral or friendly. We foster and adopt out friendly cats and kittens.
+We're one of the only organizations in Cleveland that combines targeted Trap-Neuter-Return (TNR), advanced veterinary care, rescue, and foster-based adoption for community cats. Our integrated veterinary team routinely provides lifesaving treatments for community cats that might otherwise be euthanized. From trapping cats in the field to performing surgery, treating serious injuries, fostering kittens, and placing friendly cats into permanent homes, we provide comprehensive care under one organization.
 
-We're one of the only organizations in Cleveland that combines targeted Trap-Neuter-Return (TNR), advanced veterinary care, rescue, and foster-based adoption for community cats. From trapping cats in the field to performing surgery, treating serious injuries, fostering kittens, and placing friendly cats into permanent homes, we provide comprehensive care under one organization.
+::::::: grid
+::: {.g-col-6 .text-center}
+![](images/tnr-icon.png){width="100"}
 
-Our integrated veterinary team routinely performs spay/neuter surgery as well as amputations, enucleations, dental procedures, and other lifesaving treatments for community cats that might otherwise be euthanized.
+### Trap–Neuter–Return (TNR)
 
-Our work is supported by a small team of core volunteers and hundreds of colony caretakers. We actively manage over 80 cat colonies across East Cleveland and surrounding neighborhoods, including Hough, St. Clair-Superior, Goodrich-Kirtland Park/Asiatown, Forest Hills, South Collinwood, Glenville, Fairfax, Kinsman, Greater Buckeye, Union-Miles Park, Corlett, Lee-Miles, Clark-Fulton, Detroit-Shoreway, Stockyards, Old Brooklyn, and Broadway-Slavic Village neighborhoods. In addition to colony monitoring, we help our extensive network of caretakers and independent rescuers navigate local ordinances, respond to community cat complaints, access veterinary care, and connect with other resources.
+We do targeted Trap-Neuter-Return (TNR) to humanely reduce cat overpopulation and improve lives.
+:::
+
+::: {.g-col-6 .text-center}
+![](images/vet-icon.png){width="100"}
+
+### Advanced Veterinary Care
+
+Our veterinary team provides spay/neuter surgery and advanced treatment, including dental care, amputations, enucleations, and more.
+:::
+
+::: {.g-col-6 .text-center}
+![](images/foster-icon.png){width="100"}
+
+### Rescue & Foster
+
+We rescue friendly cats and kittens, provide loving foster care, and help them heal and thrive.
+:::
+
+::: {.g-col-6 .text-center}
+![](images/adoption-icon.png){width="100"}
+
+### Adoption
+
+We place friendly cats into permanent, loving homes.
+:::
+:::::::
 
 Our facility is not open to the public and we do not operate a shelter. Every cat we treat is part of our TNR or foster-based rescue programs, allowing us to direct our resources where they have the greatest impact on community cat welfare.
+
+![Our work is supported by a small team of core volunteers and hundreds of colony caretakers. We actively manage over 80 cat colonies across East Cleveland and surrounding neighborhoods, including Hough, St. Clair-Superior, Goodrich-Kirtland Park/Asiatown, Forest Hills, South Collinwood, Glenville, Fairfax, Kinsman, Greater Buckeye, Union-Miles Park, Corlett, Lee-Miles, Clark-Fulton, Detroit-Shoreway, Stockyards, Old Brooklyn, and Broadway-Slavic Village. In addition to colony monitoring, we help our extensive network of caretakers and independent rescuers navigate local ordinances, respond to community cat complaints, access veterinary care, and connect with other resources.](images/cccp_impact_map.png)

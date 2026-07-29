@@ -2,7 +2,19 @@
 title: "Request Help with Community Cats"
 ---
 
-Please complete the form below to request help with a community cat. We are not able to respond to requests that do not accompany a completed form.
+Please complete our **Request Help Form** if:
+
+- You found a large colony of cats.
+- Multiple cats appear sick or injured.
+- The colony is reproducing rapidly.
+- You are caring for a colony and need additional guidance.
+- The situation is beyond what you can safely manage on your own.
+
+For one or two healthy community cats on private property, we recommend doing TNR on your own. You can learn about this on our [Resources](https://www.clecatproject.org/resources) page.
+
+::: callout-important
+**Please note:** Cleveland Community Cat Project is an all-volunteer organization. Our volunteers donate their time without compensation because they care about cats and their community. We have [zero tolerance]{.underline} for abusive, threatening, harassing, or disrespectful behavior toward our volunteers. Our priority is protecting our volunteers above all else. If you engage in this type of conduct, we will end all communication and decline to provide assistance.
+:::
 
 [Request Form](https://form.jotform.com/233584882215159){.main-button}
 
@@ -41,7 +53,3 @@ if (ifr) {
 </script>
     
 ```
-
-::: callout-important
-**Please note:** Cleveland Community Cat Project is an all-volunteer organization. Our volunteers donate their time without compensation because they care about cats and their community. We have zero tolerance for abusive, threatening, harassing, or disrespectful behavior toward our volunteers. If you engage in this type of conduct, we will end all communication and decline to provide assistance. Our priority is protecting our volunteers so they can continue helping cats.
-:::

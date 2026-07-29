@@ -5,15 +5,19 @@ title: "Foster"
 # Why foster with us?
 
 ## Rescue cats most in need.
-Our organization only rescues community cats -- cats from the most dangerous, resource-poor environments. 
+
+Our organization only rescues community cats -- cats from the most dangerous, resource-poor environments.
 
 ## We provide everything.
-Our foster caregivers receive food, litter, supplies, and veterinary care for foster cats at no cost.
+
+Our foster caregivers receive food, litter, supplies, and veterinary care for foster cats at no cost, including 24/7 support.
 
 ## Exclusive foster perks.
+
 We offer discounted basic veterinary care for your personal cats, including vaccines, microchipping, and more.
 
 ## Become part of a community.
+
 Our volunteer network is made up of diverse, supportive, cat-loving people all around Cleveland.
 
 Fill out our foster interest form to learn more!
@@ -54,4 +58,3 @@ if (ifr) {
 }
 </script>
 ```
-

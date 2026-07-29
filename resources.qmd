@@ -2,17 +2,21 @@
 title: "Resources"
 ---
 
-# FAQs
+# Frequently Asked Questions
 
-## What do I do if I see a cat outside?
+<details>
+
+<summary><strong>FAQs</strong></summary>
+
+#### What do I do if I see a cat outside?
 
 In most cases, a cat simply being outside is not an emergency. However, all community cats should be sterilized through trap-neuter-return (TNR). Please see the resource directory below for low-cost spay/neuter resources and information about trapping. Friendly cats can be adopted into homes on your own or through local rescues.
 
-## What do I do if I see [many]{.underline} cats outside?
+##### What do I do if I see [many]{.underline} cats outside?
 
 Fill out our [Request Form](https://www.clecatproject.org/requesthelp). We prioritize requests for overpopulated colonies, where caretakers are actively engaged, or where there are sick or injured cats. We manage over 80 colonies of nearly 1,000 community cats total around Cleveland. If you need assistance with trapping at your own residence or backyard, we can provide resources or advice, but we are rarely able to provide direct assistance. We encourage residents to rent a trap and trap on their own. Our efforts are best directed toward trapping large, unmanaged colonies where community cat welfare is at its lowest.
 
-## What if the cats are sick or injured?
+##### What if the cats are sick or injured?
 
 If you haven't already, fill out our [Request Form](https://www.clecatproject.org/requesthelp) to seek help from our organization. For urgent cases (such as if a cat was hit by a car), we recommend taking the cat to the closest emergency veterinary hospital:
 
@@ -21,29 +25,27 @@ If you haven't already, fill out our [Request Form](https://www.clecatproject.or
 - West Park Animal Hospital – open until 1 am • 216-252-4500 • 4117 Rocky River Dr, Cleveland, OH 44135
 - VCA Great Lakes – 24 hours • 216-831-6789 • 4760 Richmond Rd, Warrensville Heights, OH 44128
 
-## What if the cats appear pregnant?
+##### What if the cats appear pregnant?
 
 Cats who appear pregnant are currently accepted for spays at the Cleveland APL without an appointment, Monday-Friday 7:45-8:45 AM.
 
-## I found kittens outside. What do I do?
+#### What do I do if I found tiny kittens outside?
 
-Don't remove them right away. Fill out our [Found Kittens form](https://www.clecatproject.org/foundkittens) if you are looking for guidance about kittens, or our [Request Form](https://www.clecatproject.org/requesthelp) if you are looking for direct assistance.
+Don't remove them right away. Fill out our [Found Kittens Form](https://www.clecatproject.org/foundkittens) if you are looking for guidance about tiny kittens, or our [Request Form](https://www.clecatproject.org/requesthelp) if you are looking for direct assistance.
 
-## How do I get feral cats removed from my property?
+#### How do I get feral cats removed from my property?
 
 You don't. Healthy feral cats should not be removed from their territory. The most effective and humane approach is Trap-Neuter-Return (TNR). When cats are removed from an area, new unsterilized cats move in and begin breeding. This is known as the [vacuum effect](https://www.alleycat.org/resources/the-vacuum-effect-why-catch-and-kill-doesnt-work/). Cleveland Community Cat Project does not assist with relocating or euthanizing healthy feral cats.
 
-## I took in a community cat. Now what?
+#### I took in a community cat. Now what?
 
 We encourage you to review our [Guidance for Requesting Help from Rescues](https://docs.google.com/document/d/1g5sBmzM0LQmfGu1OjFeXQ0WbHX-z3aCtfqgo4vl-C-4/edit?usp=sharing) prior to reaching out to nonprofits. The guide explains how to work with rescues to give your cat the best possible chance of receiving help.
 
-## What if I need to surrender my personal cat due to financial difficulties?
+#### What if I need to surrender my personal cat?
 
-We cannot intake owned cats, but we are happy to help connect you with resources so you and your cat can remain together. We encourage owners to exhaust every reasonable option before surrendering an animal. If you must temporarily or permanently surrender your cat, the resource directory below contains a list of other local rescues and shelters.
+We cannot accept owner surrenders of their personal cats, but we are happy to help connect you with resources so you and your cat can remain together. We encourage owners to exhaust every reasonable option before surrendering an animal. If you must temporarily or permanently surrender your cat, the resource directory below contains a list of other local rescues and shelters. If your cat is urinating inappropriately, we understand how difficult and overwhelming these situations can be. It is a leading cause of surrender and euthanasia. In most cases, it can be resolved with a structured, persistent approach. Even if you think you've tried everything, please read our [Guidance for Feline House-Soiling](https://docs.google.com/document/d/1JZx985gN9qVkeol9T3KDMWKKNVnarqfEbxhL4wncZlA/edit?usp=sharing) before surrendering or euthanizing your cat.
 
-## What if I need to surrender my cat who is urinating inappropriately?
-
-We understand how difficult and overwhelming these situations can be. It is a leading cause of surrender and euthanasia. In most cases, it can be resolved with a structured, persistent approach. Even if you think you've tried everything, please read our [Guidance for Feline House-Soiling](https://docs.google.com/document/d/1JZx985gN9qVkeol9T3KDMWKKNVnarqfEbxhL4wncZlA/edit?usp=sharing) before surrendering or euthanizing your cat.
+</details>
 
 # Resource Directory
 
@@ -231,7 +233,7 @@ Temporary care for pets during crisis situations such as illness, domestic viole
 
 We have no formal partnership or agreements with the following organizations. Inclusion in this list does not constitute endorsement.
 
-Rescues and shelters across Northeast Ohio are at or near capacity year-round. Please consider every possible alternative before surrendering a cat. If you are able, foster the cat through a rescue or rehome the cat privately using adoption platforms or social media. Our organization strongly discourages surrendering cats unless absolutely necessary. Rescues and shelters are overwhelmed, and surrender should always be a last resort. If possible, **foster or rehome directly** through a reputable rescue. Please review these additional tips provided by [Humane World for Animals. ](https://www.humaneworld.org/en/resources/need-find-your-pet-new-home)
+Rescues and shelters across Northeast Ohio are at or near capacity year-round. Please consider every possible alternative before surrendering a cat. If you are able, foster the cat through a rescue or rehome the cat privately using adoption platforms or social media. Our organization strongly discourages surrendering cats unless absolutely necessary. Rescues and shelters are overwhelmed, and surrender should always be a last resort. If possible, **foster or rehome directly** through a reputable rescue. Please review these additional tips provided by [Humane World for Animals.](https://www.humaneworld.org/en/resources/need-find-your-pet-new-home)
 
 Never surrender feral cats to shelters or barn home programs. Feral cats should always be **trapped, fixed, and returned** to their original territory. We do not support barn home programs under any circumstances.
 
@@ -345,7 +347,7 @@ If your cat is lost, act quickly. Most cats remain close to home and can be foun
 
 - **Cleveland Division of Animal Care & Control** – 216-664-3069
 
-- **Cleveland Animal Protective League (APL)** –[clevelandapl.org](https://clevelandapl.org/programs-services-resources/lost-pet-resources/?utm_source=chatgpt.com)
+- **Cleveland Animal Protective League (APL)** –[clevelandapl.org](https://clevelandapl.org/programs-services-resources/lost-pet-resources/)
 
 Bring a clear photo and your contact information. Continue checking back frequently. Many shelters receive new intakes daily.
 
